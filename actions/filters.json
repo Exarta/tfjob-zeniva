@@ -1,0 +1,51 @@
+{
+    "data": {
+        "collections": {
+            "nodes": [
+                {
+                    "handle": "white-box-collection",
+                    "title": "White Box Collection",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Causal"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Green"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo3MDQxODA3NTE1NzEzLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                }
+            ]
+        },
+        "pages": {
+            "nodes": [
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                }
+            ]
+        },
+        "shop": {
+            "name": "Zeniva shop22",
+            "id": "gid://shopify/Shop/5772578003322"
+        }
+    },
+    "storeDescription": "jfsdj"
+}

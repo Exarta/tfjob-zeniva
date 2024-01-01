@@ -1,0 +1,26 @@
+{
+    "white-box-collection": {
+        "tag": {
+            "text": "In white-box-collection, we have products available in Causal tag.",
+            "video_id": ""
+        },
+        "color": {
+            "text": "In white-box-collection, we have products available in Green color.",
+            "video_id": ""
+        }
+    },
+    "main": {
+        "tag": {
+            "text": "In our store, we have products available in Causal tag.",
+            "video_id": ""
+        },
+        "color": {
+            "text": "In our store, we have products available in Green color.",
+            "video_id": ""
+        }
+    },
+    "description": {
+        "text": "jfsdj",
+        "video_id": " "
+    }
+}

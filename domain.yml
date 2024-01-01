@@ -17,30 +17,8 @@ entities:
     roles:
     - lessthan
     - morethan
-- availability
 - tag
-- headboard
-- select frame
-- size
-- arm height
 - color
-- fabric color
-- flip back cushions
-- leg finish
-- leg height
-- seat depth
-- seat height
-- arm style
-- choose a frame
-- leg type
-- seat material
-- select fabric color
-- shell material
-- weight capacity
-- capacity
-- dimensions
-- style
-- wood color
 slots:
   page:
     type: text
@@ -69,126 +47,16 @@ slots:
     - type: from_entity
       entity: price
       role: morethan
-  availability:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: availability
   tag:
     type: list
     mappings:
     - type: from_entity
       entity: tag
-  headboard:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: headboard
-  select frame:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: select frame
-  size:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: size
-  arm height:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: arm height
   color:
     type: list
     mappings:
     - type: from_entity
       entity: color
-  fabric color:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: fabric color
-  flip back cushions:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: flip back cushions
-  leg finish:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: leg finish
-  leg height:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: leg height
-  seat depth:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: seat depth
-  seat height:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: seat height
-  arm style:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: arm style
-  choose a frame:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: choose a frame
-  leg type:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: leg type
-  seat material:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: seat material
-  select fabric color:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: select fabric color
-  shell material:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: shell material
-  weight capacity:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: weight capacity
-  capacity:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: capacity
-  dimensions:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: dimensions
-  style:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: style
-  wood color:
-    type: list
-    mappings:
-    - type: from_entity
-      entity: wood color
 responses:
   utter_greet/basic:
   - text: Hey Zeniva here, how can I be of service today?
