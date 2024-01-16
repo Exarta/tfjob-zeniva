@@ -1087,6 +1087,7 @@
       "shop": {
         "name": "Zeniva Store",
         "id": "gid://shopify/Shop/75668390172"
-      }
+      },
+      "storeDescription": "Hello this is the description"
     }
   }
