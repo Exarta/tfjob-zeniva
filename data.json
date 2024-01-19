@@ -6,83 +6,10 @@
                     "handle": "white-box-collection",
                     "title": "White Box Collection",
                     "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Purple"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Cotton"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    }
-                                ]
-                            }
-                        ],
+                        "filters": [],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3MDQxODA3NTE1NzEzLCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": null
                         }
                     }
                 },
@@ -90,80 +17,10 @@
                     "handle": "black-box-collection",
                     "title": "Black Box Collection",
                     "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Green"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Cotton"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    }
-                                ]
-                            }
-                        ],
+                        "filters": [],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3MDQxODA2OTU4NjU3LCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": null
                         }
                     }
                 },
@@ -171,95 +28,10 @@
                     "handle": "grey-box-collection",
                     "title": "Grey Box Collection",
                     "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Beige"
-                                    },
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Orange"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    },
-                                    {
-                                        "label": "Yellow"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Cotton"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    }
-                                ]
-                            }
-                        ],
+                        "filters": [],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3MDQxODA2MzM2MDY1LCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": null
                         }
                     }
                 }
@@ -278,7 +50,7 @@
             "id": "gid://shopify/Shop/57725780033"
         }
     },
-    "storeDescription": "This store has 3 filters",
+    "storeDescription": "This store has 6 filters",
     "retrain": false,
     "intial_count": 1
 }
