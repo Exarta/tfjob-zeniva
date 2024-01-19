@@ -6,10 +6,179 @@
                     "handle": "white-box-collection",
                     "title": "White Box Collection",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Causal"
+                                    },
+                                    {
+                                        "label": "Classy"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Different"
+                                    },
+                                    {
+                                        "label": "Expensive"
+                                    },
+                                    {
+                                        "label": "Fashion"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Green"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.custom patch placement",
+                                "values": [
+                                    {
+                                        "label": "Back"
+                                    },
+                                    {
+                                        "label": "Front"
+                                    },
+                                    {
+                                        "label": "Side"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.finish",
+                                "values": [
+                                    {
+                                        "label": "Fine"
+                                    },
+                                    {
+                                        "label": "Super Fine"
+                                    },
+                                    {
+                                        "label": "Ultra Fine"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.handle type",
+                                "values": [
+                                    {
+                                        "label": "No Handle"
+                                    },
+                                    {
+                                        "label": "Side Handle"
+                                    },
+                                    {
+                                        "label": "Top Handle"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.logo patch color",
+                                "values": [
+                                    {
+                                        "label": "Blue"
+                                    },
+                                    {
+                                        "label": "Green"
+                                    },
+                                    {
+                                        "label": "Red"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.material",
+                                "values": [
+                                    {
+                                        "label": "Cotton"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.style",
+                                "values": [
+                                    {
+                                        "label": "Classical"
+                                    },
+                                    {
+                                        "label": "Modern"
+                                    },
+                                    {
+                                        "label": "Vintage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.weight",
+                                "values": [
+                                    {
+                                        "label": "5g"
+                                    },
+                                    {
+                                        "label": "8g"
+                                    },
+                                    {
+                                        "label": "10g"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo3MDYxMjYxMjIxOTUzLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
@@ -17,10 +186,233 @@
                     "handle": "black-box-collection",
                     "title": "Black Box Collection",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Causal"
+                                    },
+                                    {
+                                        "label": "Classy"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Different"
+                                    },
+                                    {
+                                        "label": "Expensive"
+                                    },
+                                    {
+                                        "label": "Fashion"
+                                    },
+                                    {
+                                        "label": "Unique"
+                                    },
+                                    {
+                                        "label": "Vintage"
+                                    },
+                                    {
+                                        "label": "Vogue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.buckle color",
+                                "values": [
+                                    {
+                                        "label": "Brown"
+                                    },
+                                    {
+                                        "label": "Maroon"
+                                    },
+                                    {
+                                        "label": "Purple"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.closure type",
+                                "values": [
+                                    {
+                                        "label": "Buckle"
+                                    },
+                                    {
+                                        "label": "Drawstring"
+                                    },
+                                    {
+                                        "label": "Zipper"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Green"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.custom patch placement",
+                                "values": [
+                                    {
+                                        "label": "Back"
+                                    },
+                                    {
+                                        "label": "Front"
+                                    },
+                                    {
+                                        "label": "Side"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.handle type",
+                                "values": [
+                                    {
+                                        "label": "No Handle"
+                                    },
+                                    {
+                                        "label": "Side Handle"
+                                    },
+                                    {
+                                        "label": "Top Handle"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.logo patch color",
+                                "values": [
+                                    {
+                                        "label": "Blue"
+                                    },
+                                    {
+                                        "label": "Green"
+                                    },
+                                    {
+                                        "label": "Red"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.material",
+                                "values": [
+                                    {
+                                        "label": "Cotton"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.pocket configuration",
+                                "values": [
+                                    {
+                                        "label": "Multiple"
+                                    },
+                                    {
+                                        "label": "None"
+                                    },
+                                    {
+                                        "label": "Single"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.stitching color",
+                                "values": [
+                                    {
+                                        "label": "Blue"
+                                    },
+                                    {
+                                        "label": "Green"
+                                    },
+                                    {
+                                        "label": "Red"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.strap type",
+                                "values": [
+                                    {
+                                        "label": "Adjustable"
+                                    },
+                                    {
+                                        "label": "Crossbody"
+                                    },
+                                    {
+                                        "label": "Padded"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.zipper color",
+                                "values": [
+                                    {
+                                        "label": "Brown"
+                                    },
+                                    {
+                                        "label": "Pink"
+                                    },
+                                    {
+                                        "label": "Yellow"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo3MDYxMjYyODI3NTg1LCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
@@ -28,10 +420,188 @@
                     "handle": "grey-box-collection",
                     "title": "Grey Box Collection",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Causal"
+                                    },
+                                    {
+                                        "label": "Classy"
+                                    },
+                                    {
+                                        "label": "Clothing"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Outfit"
+                                    },
+                                    {
+                                        "label": "Shopping"
+                                    },
+                                    {
+                                        "label": "Unique"
+                                    },
+                                    {
+                                        "label": "Vintage"
+                                    },
+                                    {
+                                        "label": "Vogue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.closure type",
+                                "values": [
+                                    {
+                                        "label": "Buckle"
+                                    },
+                                    {
+                                        "label": "Drawstring"
+                                    },
+                                    {
+                                        "label": "Zipper"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Green"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.embroidery",
+                                "values": [
+                                    {
+                                        "label": "Custom Design"
+                                    },
+                                    {
+                                        "label": "Initials"
+                                    },
+                                    {
+                                        "label": "Name"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.hardware finish",
+                                "values": [
+                                    {
+                                        "label": "Gold"
+                                    },
+                                    {
+                                        "label": "Gunmetal"
+                                    },
+                                    {
+                                        "label": "Silver"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.interior lining",
+                                "values": [
+                                    {
+                                        "label": "Cotton"
+                                    },
+                                    {
+                                        "label": "Polyester"
+                                    },
+                                    {
+                                        "label": "Silk"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.material",
+                                "values": [
+                                    {
+                                        "label": "Cotton"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.pocket configuration",
+                                "values": [
+                                    {
+                                        "label": "Multiple"
+                                    },
+                                    {
+                                        "label": "None"
+                                    },
+                                    {
+                                        "label": "Single"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.strap type",
+                                "values": [
+                                    {
+                                        "label": "Adjustable"
+                                    },
+                                    {
+                                        "label": "Crossbody"
+                                    },
+                                    {
+                                        "label": "Padded"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo3MDYxMjYzODQzMzkzLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 }
@@ -50,7 +620,7 @@
             "id": "gid://shopify/Shop/57725780033"
         }
     },
-    "storeDescription": "This store has 6 filters",
+    "storeDescription": "This store has 21 filters",
     "retrain": false,
     "intial_count": 1
 }
