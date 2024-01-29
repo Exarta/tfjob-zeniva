@@ -3,8 +3,8 @@
         "collections": {
             "nodes": [
                 {
-                    "handle": "t-shirts",
-                    "title": "T-shirts",
+                    "handle": "frontpage",
+                    "title": "Home page",
                     "products": {
                         "filters": [
                             {
@@ -36,70 +36,37 @@
                                         "label": "Comfortable"
                                     },
                                     {
-                                        "label": "Different"
+                                        "label": "Home Decor"
                                     },
                                     {
-                                        "label": "Expensive"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "fit"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "slim"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    },
-                                    {
-                                        "label": "unique"
+                                        "label": "Soft"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.option.headboard",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "Fabric"
                                     },
                                     {
-                                        "label": "Dark Beige"
+                                        "label": "None"
                                     },
                                     {
-                                        "label": "Purple"
-                                    },
-                                    {
-                                        "label": "Red"
+                                        "label": "Wood"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.material",
+                                "id": "filter.v.option.select frame",
                                 "values": [
                                     {
-                                        "label": "Cotton"
+                                        "label": "Metal"
                                     },
                                     {
-                                        "label": "Polyamide"
-                                    },
-                                    {
-                                        "label": "Polyester"
+                                        "label": "Wood"
                                     }
                                 ]
                             },
@@ -108,26 +75,23 @@
                                 "id": "filter.v.option.size",
                                 "values": [
                                     {
-                                        "label": "Small"
+                                        "label": "Queen"
                                     },
                                     {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
+                                        "label": "King"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI2NzkxMzU5LCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjIxMTgyNTYwLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "shirts",
-                    "title": "Shirts",
+                    "handle": "sofas",
+                    "title": "Sofas",
                     "products": {
                         "filters": [
                             {
@@ -156,52 +120,46 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "Carry"
+                                        "label": "couch"
                                     },
                                     {
-                                        "label": "Causal"
+                                        "label": "Decora"
                                     },
                                     {
-                                        "label": "Classy"
+                                        "label": "Design"
                                     },
                                     {
-                                        "label": "Comfortable"
+                                        "label": "Furniture Design"
                                     },
                                     {
-                                        "label": "Different"
+                                        "label": "Interior"
                                     },
                                     {
-                                        "label": "Expensive"
+                                        "label": "Living room Decor"
                                     },
                                     {
-                                        "label": "fashion"
+                                        "label": "livingroom"
                                     },
                                     {
-                                        "label": "formal"
+                                        "label": "Luxury"
                                     },
                                     {
-                                        "label": "informal"
+                                        "label": "sofaminimalis"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.arm height",
+                                "values": [
+                                    {
+                                        "label": "24\" inches"
                                     },
                                     {
-                                        "label": "Semiformal"
+                                        "label": "25\" inches"
                                     },
                                     {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    },
-                                    {
-                                        "label": "unique"
-                                    },
-                                    {
-                                        "label": "Winter"
+                                        "label": "26\" inches"
                                     }
                                 ]
                             },
@@ -210,203 +168,56 @@
                                 "id": "filter.v.option.color",
                                 "values": [
                                     {
-                                        "label": "Beige"
+                                        "label": "Fabric"
                                     },
                                     {
-                                        "label": "Black"
+                                        "label": "Leather"
                                     },
                                     {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Light Green"
-                                    },
-                                    {
-                                        "label": "Off White"
-                                    },
-                                    {
-                                        "label": "Rust"
-                                    },
-                                    {
-                                        "label": "White"
+                                        "label": "Velvet"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.material",
+                                "id": "filter.v.option.fabric color",
                                 "values": [
                                     {
-                                        "label": "Cotton"
+                                        "label": "Brick Red"
                                     },
                                     {
-                                        "label": "Garbardine"
+                                        "label": "Charcoal"
                                     },
                                     {
-                                        "label": "Jeans"
+                                        "label": "Crushed Gravel"
                                     },
                                     {
-                                        "label": "Nylon"
+                                        "label": "Ivory"
                                     },
                                     {
-                                        "label": "Satin"
-                                    },
-                                    {
-                                        "label": "Silk"
+                                        "label": "Navy Blue"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.size",
+                                "id": "filter.v.option.flip back cushions",
                                 "values": [
                                     {
-                                        "label": "Extra Small"
+                                        "label": "Flat"
                                     },
                                     {
-                                        "label": "Extra small"
+                                        "label": "Tufted"
                                     },
                                     {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "Extra Large"
+                                        "label": "Untufted"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.style",
+                                "id": "filter.v.option.leg finish",
                                 "values": [
-                                    {
-                                        "label": "Cropped"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI2NDMwOTExLCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "jewellery",
-                    "title": "Jewellery",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    },
-                                    {
-                                        "label": "Different"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "Fashion"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "Lightweight"
-                                    },
-                                    {
-                                        "label": "party"
-                                    },
-                                    {
-                                        "label": "Semiformal"
-                                    },
-                                    {
-                                        "label": "Stainless"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    },
-                                    {
-                                        "label": "unique"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Golden"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    },
-                                    {
-                                        "label": "Silver"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Gold"
-                                    },
                                     {
                                         "label": "Metal"
                                     },
@@ -414,38 +225,80 @@
                                         "label": "Plastic"
                                     },
                                     {
-                                        "label": "Rubber"
-                                    },
-                                    {
-                                        "label": "Silver"
-                                    },
-                                    {
-                                        "label": "Stone"
+                                        "label": "Wood"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.size",
+                                "id": "filter.v.option.leg height",
                                 "values": [
                                     {
-                                        "label": "Regular"
+                                        "label": "7\" inches"
                                     },
                                     {
-                                        "label": "Standard"
+                                        "label": "8\" inches"
+                                    },
+                                    {
+                                        "label": "9\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat depth",
+                                "values": [
+                                    {
+                                        "label": "2\" inches"
+                                    },
+                                    {
+                                        "label": "22\" inches"
+                                    },
+                                    {
+                                        "label": "23\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat height",
+                                "values": [
+                                    {
+                                        "label": "17\" Inches"
+                                    },
+                                    {
+                                        "label": "18\" Inches"
+                                    },
+                                    {
+                                        "label": "19\" Inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.arm style",
+                                "values": [
+                                    {
+                                        "label": "Arch"
+                                    },
+                                    {
+                                        "label": "Block"
+                                    },
+                                    {
+                                        "label": "Slope"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI1ODQxMDg3LCJsYXN0X3ZhbHVlIjoiUkVTSU4gSE9PUCBFQVJSSU5HUyJ9"
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjI1MzQ0MDk2LCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "belts",
-                    "title": "Belts",
+                    "handle": "chairs",
+                    "title": "Chairs",
                     "products": {
                         "filters": [
                             {
@@ -474,43 +327,46 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "Causal"
+                                        "label": "Cafe"
                                     },
                                     {
-                                        "label": "Classy"
+                                        "label": "Chair Decor"
                                     },
                                     {
                                         "label": "Comfortable"
                                     },
                                     {
-                                        "label": "Different"
+                                        "label": "Dining Chair"
                                     },
                                     {
-                                        "label": "fashion"
+                                        "label": "Office furniture"
                                     },
                                     {
-                                        "label": "formal"
+                                        "label": "Pleasure"
                                     },
                                     {
-                                        "label": "informal"
+                                        "label": "Rest"
                                     },
                                     {
-                                        "label": "Semiformal"
+                                        "label": "Stool"
                                     },
                                     {
-                                        "label": "Street Style"
+                                        "label": "Vintage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.choose a frame",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
                                     },
                                     {
-                                        "label": "Swaggy"
+                                        "label": "Fabric & Wood"
                                     },
                                     {
-                                        "label": "travelling"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    },
-                                    {
-                                        "label": "unique"
+                                        "label": "Leather & Wood"
                                     }
                                 ]
                             },
@@ -519,253 +375,91 @@
                                 "id": "filter.v.option.color",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "Black Ash"
                                     },
                                     {
-                                        "label": "Brown"
+                                        "label": "Camel"
                                     },
                                     {
-                                        "label": "Silver"
+                                        "label": "Oak"
+                                    },
+                                    {
+                                        "label": "Slate"
+                                    },
+                                    {
+                                        "label": "Slate/"
+                                    },
+                                    {
+                                        "label": "Walnut"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.material",
+                                "id": "filter.v.option.leg type",
                                 "values": [
                                     {
-                                        "label": "Leather"
+                                        "label": "Simple"
                                     },
                                     {
-                                        "label": "Metal"
+                                        "label": "Straight"
+                                    },
+                                    {
+                                        "label": "Tapered"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.size",
+                                "id": "filter.v.option.seat height",
                                 "values": [
                                     {
-                                        "label": "Medium"
+                                        "label": "16\" inches"
                                     },
                                     {
-                                        "label": "Regular"
+                                        "label": "17\" inches"
+                                    },
+                                    {
+                                        "label": "18\" inches"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.style",
+                                "id": "filter.v.option.seat material",
                                 "values": [
                                     {
-                                        "label": "Formal"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI1MzQ5NTY3LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "bags",
-                    "title": "Bags",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
+                                        "label": "100% leather cowhide"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.tag",
+                                "id": "filter.v.option.select fabric color",
                                 "values": [
                                     {
-                                        "label": "Carry"
+                                        "label": "Heather Charcoal"
                                     },
                                     {
-                                        "label": "Classy"
+                                        "label": "Papyrus"
                                     },
                                     {
-                                        "label": "Comfortable"
-                                    },
-                                    {
-                                        "label": "Expensive"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "Lightweight"
-                                    },
-                                    {
-                                        "label": "Semiformal"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "travelling"
-                                    },
-                                    {
-                                        "label": "Trendy"
+                                        "label": "Stone Gray"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.option.shell material",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "Laminate"
                                     },
                                     {
-                                        "label": "Grey"
+                                        "label": "Plywood veneer"
                                     },
                                     {
-                                        "label": "Silver"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Leather"
-                                    },
-                                    {
-                                        "label": "Nylon"
-                                    },
-                                    {
-                                        "label": "Polymer"
-                                    },
-                                    {
-                                        "label": "Rexine"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "Regular"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI1MTUyOTU5LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "hoodies",
-                    "title": "Hoodies",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Off White"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Cotton"
-                                    },
-                                    {
-                                        "label": "Fleece"
-                                    },
-                                    {
-                                        "label": "Wool"
+                                        "label": "Walnut"
                                     }
                                 ]
                             },
@@ -783,17 +477,32 @@
                                         "label": "Large"
                                     }
                                 ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.weight capacity",
+                                "values": [
+                                    {
+                                        "label": "300 lbs"
+                                    },
+                                    {
+                                        "label": "350 lbs"
+                                    },
+                                    {
+                                        "label": "400 lbs"
+                                    }
+                                ]
                             }
                         ],
                         "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI3MzgxMTgzLCJsYXN0X3ZhbHVlIjowfQ=="
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjI5NjY5NDcyLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "sweat-shirts",
-                    "title": "Sweat Shirts",
+                    "handle": "beds",
+                    "title": "Beds",
                     "products": {
                         "filters": [
                             {
@@ -822,742 +531,115 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "Causal"
+                                        "label": "Bedding Sets"
+                                    },
+                                    {
+                                        "label": "Bedroom"
                                     },
                                     {
                                         "label": "Comfortable"
                                     },
                                     {
-                                        "label": "formal"
+                                        "label": "Furniture"
                                     },
                                     {
-                                        "label": "Semiformal"
+                                        "label": "Home Decor"
+                                    },
+                                    {
+                                        "label": "Interior Design"
+                                    },
+                                    {
+                                        "label": "Luxury Bedding"
+                                    },
+                                    {
+                                        "label": "Sleep"
                                     },
                                     {
                                         "label": "Soft"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.option.capacity",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "700 lbs"
                                     },
                                     {
-                                        "label": "Grey"
+                                        "label": "800 lbs"
                                     },
                                     {
-                                        "label": "Off White"
-                                    },
-                                    {
-                                        "label": "Pink"
+                                        "label": "900 lbs"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.material",
+                                "id": "filter.v.option.dimensions",
                                 "values": [
                                     {
-                                        "label": "Fleece"
+                                        "label": "General Dimensions (King)\t85\" D x 80\" W x 45.25\" H"
                                     },
                                     {
-                                        "label": "Polyester"
+                                        "label": "General Dimensions (Queen)\t85\" D x 64\" W x 42.5\" H"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.size",
+                                "id": "filter.v.option.fabric color",
                                 "values": [
                                     {
-                                        "label": "Extra Small"
+                                        "label": "Heather Charcoal"
                                     },
                                     {
-                                        "label": "Small"
+                                        "label": "Papyrus"
                                     },
                                     {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "Extra Large"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI3NDQ2NzE5LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "sweater",
-                    "title": "Sweater",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
+                                        "label": "Stone Gray"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.tag",
+                                "id": "filter.v.option.headboard",
                                 "values": [
                                     {
-                                        "label": "Causal"
+                                        "label": "Fabric"
                                     },
                                     {
-                                        "label": "Classy"
+                                        "label": "None"
                                     },
                                     {
-                                        "label": "Comfortable"
-                                    },
-                                    {
-                                        "label": "Expensive"
-                                    },
-                                    {
-                                        "label": "Fancy"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "Semiformal"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
+                                        "label": "Wood"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.option.leg type",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "Round"
                                     },
                                     {
-                                        "label": "Brown"
+                                        "label": "Straight"
                                     },
                                     {
-                                        "label": "Dark Brown"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Maroon"
-                                    },
-                                    {
-                                        "label": "Off White"
+                                        "label": "Tapered"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.material",
+                                "id": "filter.v.option.select frame",
                                 "values": [
-                                    {
-                                        "label": "Cotton"
-                                    },
-                                    {
-                                        "label": "Wool"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Extra Small"
-                                    },
-                                    {
-                                        "label": "Extra small"
-                                    },
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "large"
-                                    },
-                                    {
-                                        "label": "Extra Large"
-                                    },
-                                    {
-                                        "label": "extra large"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI2MTAzMjMxLCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "winter-collection",
-                    "title": "Winter Collection",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    },
-                                    {
-                                        "label": "Expensive"
-                                    },
-                                    {
-                                        "label": "Fancy"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "Semiformal"
-                                    },
-                                    {
-                                        "label": "Soft"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Dark Brown"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Maroon"
-                                    },
-                                    {
-                                        "label": "Off White"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Cotton"
-                                    },
-                                    {
-                                        "label": "Fleece"
-                                    },
-                                    {
-                                        "label": "Polyester"
-                                    },
-                                    {
-                                        "label": "Wool"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Extra Small"
-                                    },
-                                    {
-                                        "label": "Extra small"
-                                    },
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "large"
-                                    },
-                                    {
-                                        "label": "Extra Large"
-                                    },
-                                    {
-                                        "label": "extra large"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI3MzQ4NDE1LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "summer-collection",
-                    "title": "Summer Collection",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Carry"
-                                    },
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    },
-                                    {
-                                        "label": "Different"
-                                    },
-                                    {
-                                        "label": "Expensive"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "fit"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "Semiformal"
-                                    },
-                                    {
-                                        "label": "slim"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    },
-                                    {
-                                        "label": "unique"
-                                    },
-                                    {
-                                        "label": "Winter"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Beige"
-                                    },
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Dark Beige"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Light Green"
-                                    },
-                                    {
-                                        "label": "Off White"
-                                    },
-                                    {
-                                        "label": "Purple"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    },
-                                    {
-                                        "label": "Rust"
-                                    },
-                                    {
-                                        "label": "White"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Cotton"
-                                    },
-                                    {
-                                        "label": "Garbardine"
-                                    },
-                                    {
-                                        "label": "Jeans"
-                                    },
-                                    {
-                                        "label": "Nylon"
-                                    },
-                                    {
-                                        "label": "Polyamide"
-                                    },
-                                    {
-                                        "label": "Polyester"
-                                    },
-                                    {
-                                        "label": "Satin"
-                                    },
-                                    {
-                                        "label": "Silk"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Extra Small"
-                                    },
-                                    {
-                                        "label": "Extra small"
-                                    },
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "Extra Large"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.style",
-                                "values": [
-                                    {
-                                        "label": "Cropped"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI2NTYxOTgzLCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "accessories",
-                    "title": "Accessories",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.availability",
-                                "values": [
-                                    {
-                                        "label": "In stock"
-                                    },
-                                    {
-                                        "label": "Out of stock"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Carry"
-                                    },
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "Classy"
-                                    },
-                                    {
-                                        "label": "Comfortable"
-                                    },
-                                    {
-                                        "label": "Different"
-                                    },
-                                    {
-                                        "label": "Expensive"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "Fashion"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "informal"
-                                    },
-                                    {
-                                        "label": "Lightweight"
-                                    },
-                                    {
-                                        "label": "party"
-                                    },
-                                    {
-                                        "label": "Semiformal"
-                                    },
-                                    {
-                                        "label": "Stainless"
-                                    },
-                                    {
-                                        "label": "Street Style"
-                                    },
-                                    {
-                                        "label": "stylish"
-                                    },
-                                    {
-                                        "label": "Swaggy"
-                                    },
-                                    {
-                                        "label": "travelling"
-                                    },
-                                    {
-                                        "label": "Trendy"
-                                    },
-                                    {
-                                        "label": "unique"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Golden"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    },
-                                    {
-                                        "label": "Silver"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.material",
-                                "values": [
-                                    {
-                                        "label": "Gold"
-                                    },
-                                    {
-                                        "label": "Leather"
-                                    },
                                     {
                                         "label": "Metal"
                                     },
                                     {
-                                        "label": "Nylon"
-                                    },
-                                    {
-                                        "label": "Plastic"
-                                    },
-                                    {
-                                        "label": "Polymer"
-                                    },
-                                    {
-                                        "label": "Rexine"
-                                    },
-                                    {
-                                        "label": "Rubber"
-                                    },
-                                    {
-                                        "label": "Silver"
-                                    },
-                                    {
-                                        "label": "Stone"
+                                        "label": "Wood"
                                     }
                                 ]
                             },
@@ -1566,19 +648,10 @@
                                 "id": "filter.v.option.size",
                                 "values": [
                                     {
-                                        "label": "Small"
+                                        "label": "Queen"
                                     },
                                     {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "Regular"
-                                    },
-                                    {
-                                        "label": "Standard"
+                                        "label": "King"
                                     }
                                 ]
                             },
@@ -1587,14 +660,32 @@
                                 "id": "filter.v.option.style",
                                 "values": [
                                     {
-                                        "label": "Formal"
+                                        "label": "Box-spring"
+                                    },
+                                    {
+                                        "label": "Continental"
+                                    },
+                                    {
+                                        "label": "Elevation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.wood color",
+                                "values": [
+                                    {
+                                        "label": "Oak"
+                                    },
+                                    {
+                                        "label": "Walnut"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo3NTUzOTI1NTc4OTQzLCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjIzODA0MDAwLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 }
@@ -1605,19 +696,15 @@
                 {
                     "title": "Contact",
                     "handle": "contact"
-                },
-                {
-                    "title": "Contact",
-                    "handle": "contact"
                 }
             ]
         },
         "shop": {
-            "name": "Grace2",
-            "id": "gid://shopify/Shop/628899186552"
+            "name": "Decor Gems",
+            "id": "gid://shopify/Shop/55134584928"
         }
     },
-    "storeDescription": "This is a Grace test",
+    "storeDescription": "hello this is decor gems",
     "retrain": false,
     "initial_count": 1
 }
