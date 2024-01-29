@@ -3,35 +3,689 @@
         "collections": {
             "nodes": [
                 {
-                    "handle": "white-box-collection",
-                    "title": "White Box Collection",
+                    "handle": "frontpage",
+                    "title": "Home page",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Home Decor"
+                                    },
+                                    {
+                                        "label": "Soft"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.headboard",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "None"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.select frame",
+                                "values": [
+                                    {
+                                        "label": "Metal"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Queen"
+                                    },
+                                    {
+                                        "label": "King"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": null
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjIxMTgyNTYwLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "black-box-collection",
-                    "title": "Black Box Collection",
+                    "handle": "sofas",
+                    "title": "Sofas",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "couch"
+                                    },
+                                    {
+                                        "label": "Decora"
+                                    },
+                                    {
+                                        "label": "Design"
+                                    },
+                                    {
+                                        "label": "Furniture Design"
+                                    },
+                                    {
+                                        "label": "Interior"
+                                    },
+                                    {
+                                        "label": "Living room Decor"
+                                    },
+                                    {
+                                        "label": "livingroom"
+                                    },
+                                    {
+                                        "label": "Luxury"
+                                    },
+                                    {
+                                        "label": "sofaminimalis"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.arm height",
+                                "values": [
+                                    {
+                                        "label": "24\" inches"
+                                    },
+                                    {
+                                        "label": "25\" inches"
+                                    },
+                                    {
+                                        "label": "26\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "Leather"
+                                    },
+                                    {
+                                        "label": "Velvet"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.fabric color",
+                                "values": [
+                                    {
+                                        "label": "Brick Red"
+                                    },
+                                    {
+                                        "label": "Charcoal"
+                                    },
+                                    {
+                                        "label": "Crushed Gravel"
+                                    },
+                                    {
+                                        "label": "Ivory"
+                                    },
+                                    {
+                                        "label": "Navy Blue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.flip back cushions",
+                                "values": [
+                                    {
+                                        "label": "Flat"
+                                    },
+                                    {
+                                        "label": "Tufted"
+                                    },
+                                    {
+                                        "label": "Untufted"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg finish",
+                                "values": [
+                                    {
+                                        "label": "Metal"
+                                    },
+                                    {
+                                        "label": "Plastic"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg height",
+                                "values": [
+                                    {
+                                        "label": "7\" inches"
+                                    },
+                                    {
+                                        "label": "8\" inches"
+                                    },
+                                    {
+                                        "label": "9\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat depth",
+                                "values": [
+                                    {
+                                        "label": "2\" inches"
+                                    },
+                                    {
+                                        "label": "22\" inches"
+                                    },
+                                    {
+                                        "label": "23\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat height",
+                                "values": [
+                                    {
+                                        "label": "17\" Inches"
+                                    },
+                                    {
+                                        "label": "18\" Inches"
+                                    },
+                                    {
+                                        "label": "19\" Inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.arm style",
+                                "values": [
+                                    {
+                                        "label": "Arch"
+                                    },
+                                    {
+                                        "label": "Block"
+                                    },
+                                    {
+                                        "label": "Slope"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjI1MzQ0MDk2LCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "grey-box-collection",
-                    "title": "Grey Box Collection",
+                    "handle": "chairs",
+                    "title": "Chairs",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Cafe"
+                                    },
+                                    {
+                                        "label": "Chair Decor"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Dining Chair"
+                                    },
+                                    {
+                                        "label": "Office furniture"
+                                    },
+                                    {
+                                        "label": "Pleasure"
+                                    },
+                                    {
+                                        "label": "Rest"
+                                    },
+                                    {
+                                        "label": "Stool"
+                                    },
+                                    {
+                                        "label": "Vintage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.choose a frame",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "Fabric & Wood"
+                                    },
+                                    {
+                                        "label": "Leather & Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Black Ash"
+                                    },
+                                    {
+                                        "label": "Camel"
+                                    },
+                                    {
+                                        "label": "Oak"
+                                    },
+                                    {
+                                        "label": "Slate"
+                                    },
+                                    {
+                                        "label": "Slate/"
+                                    },
+                                    {
+                                        "label": "Walnut"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg type",
+                                "values": [
+                                    {
+                                        "label": "Simple"
+                                    },
+                                    {
+                                        "label": "Straight"
+                                    },
+                                    {
+                                        "label": "Tapered"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat height",
+                                "values": [
+                                    {
+                                        "label": "16\" inches"
+                                    },
+                                    {
+                                        "label": "17\" inches"
+                                    },
+                                    {
+                                        "label": "18\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat material",
+                                "values": [
+                                    {
+                                        "label": "100% leather cowhide"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.select fabric color",
+                                "values": [
+                                    {
+                                        "label": "Heather Charcoal"
+                                    },
+                                    {
+                                        "label": "Papyrus"
+                                    },
+                                    {
+                                        "label": "Stone Gray"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.shell material",
+                                "values": [
+                                    {
+                                        "label": "Laminate"
+                                    },
+                                    {
+                                        "label": "Plywood veneer"
+                                    },
+                                    {
+                                        "label": "Walnut"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.weight capacity",
+                                "values": [
+                                    {
+                                        "label": "300 lbs"
+                                    },
+                                    {
+                                        "label": "350 lbs"
+                                    },
+                                    {
+                                        "label": "400 lbs"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjI5NjY5NDcyLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "beds",
+                    "title": "Beds",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Bedding Sets"
+                                    },
+                                    {
+                                        "label": "Bedroom"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Furniture"
+                                    },
+                                    {
+                                        "label": "Home Decor"
+                                    },
+                                    {
+                                        "label": "Interior Design"
+                                    },
+                                    {
+                                        "label": "Luxury Bedding"
+                                    },
+                                    {
+                                        "label": "Sleep"
+                                    },
+                                    {
+                                        "label": "Soft"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.capacity",
+                                "values": [
+                                    {
+                                        "label": "700 lbs"
+                                    },
+                                    {
+                                        "label": "800 lbs"
+                                    },
+                                    {
+                                        "label": "900 lbs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.dimensions",
+                                "values": [
+                                    {
+                                        "label": "General Dimensions (King)\t85\" D x 80\" W x 45.25\" H"
+                                    },
+                                    {
+                                        "label": "General Dimensions (Queen)\t85\" D x 64\" W x 42.5\" H"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.fabric color",
+                                "values": [
+                                    {
+                                        "label": "Heather Charcoal"
+                                    },
+                                    {
+                                        "label": "Papyrus"
+                                    },
+                                    {
+                                        "label": "Stone Gray"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.headboard",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "None"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg type",
+                                "values": [
+                                    {
+                                        "label": "Round"
+                                    },
+                                    {
+                                        "label": "Straight"
+                                    },
+                                    {
+                                        "label": "Tapered"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.select frame",
+                                "values": [
+                                    {
+                                        "label": "Metal"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Queen"
+                                    },
+                                    {
+                                        "label": "King"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.style",
+                                "values": [
+                                    {
+                                        "label": "Box-spring"
+                                    },
+                                    {
+                                        "label": "Continental"
+                                    },
+                                    {
+                                        "label": "Elevation"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.wood color",
+                                "values": [
+                                    {
+                                        "label": "Oak"
+                                    },
+                                    {
+                                        "label": "Walnut"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjIzODA0MDAwLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 }
@@ -46,11 +700,11 @@
             ]
         },
         "shop": {
-            "name": "Zeniva shop",
-            "id": "gid://shopify/Shop/57725780033"
+            "name": "Decor Gems",
+            "id": "gid://shopify/Shop/55134584928"
         }
     },
-    "storeDescription": "dwevfbe",
+    "storeDescription": "fsdcc  v",
     "retrain": false,
     "initial_count": 1
 }
