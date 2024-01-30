@@ -3,35 +3,35 @@
         "collections": {
             "nodes": [
                 {
-                    "handle": "white-box-collection",
-                    "title": "White Box Collection",
+                    "handle": "t-shirts",
+                    "title": "T Shirts",
                     "products": {
-                        "filters": [],
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Black"
+                                    },
+                                    {
+                                        "label": "Blue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": null
-                        }
-                    }
-                },
-                {
-                    "handle": "black-box-collection",
-                    "title": "Black Box Collection",
-                    "products": {
-                        "filters": [],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
-                        }
-                    }
-                },
-                {
-                    "handle": "grey-box-collection",
-                    "title": "Grey Box Collection",
-                    "products": {
-                        "filters": [],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": null
+                            "endCursor": "eyJsYXN0X2lkIjo4NzYxMzQyMjMwODEyLCJsYXN0X3ZhbHVlIjoiMjAyMy0xMC0wNSAwOTo0MjozOC4wMDAwMDAifQ=="
                         }
                     }
                 }
@@ -42,15 +42,22 @@
                 {
                     "title": "Contact",
                     "handle": "contact"
+                },
+                {
+                    "title": "Contact",
+                    "handle": "contact"
                 }
             ]
         },
         "shop": {
-            "name": "Zeniva shop",
-            "id": "gid://shopify/Shop/57725780033"
+            "name": "saif-try",
+            "id": "gid://shopify/Shop/122"
         }
     },
-    "storeDescription": "r32r32f34fvrvffvfd",
+    "shop": {
+        "name": "saif-try",
+        "id": "gid://shopify/Shop/122"
+    },
     "retrain": false,
     "initial_count": 1
 }
