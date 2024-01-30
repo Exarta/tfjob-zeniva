@@ -58,6 +58,6 @@
         "name": "saif-try",
         "id": "gid://shopify/Shop/122"
     },
-    "retrain": true,
-    "initial_count": 4
+    "retrain": false,
+    "initial_count": 1
 }
