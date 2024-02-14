@@ -3,49 +3,19 @@
         "collections": {
             "nodes": [
                 {
-                    "handle": "t-shirts",
-                    "title": "T Shirts",
+                    "handle": "frontpage",
+                    "title": "Home page",
                     "products": {
                         "filters": [
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.availability",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "In stock"
                                     },
                                     {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Orange"
-                                    },
-                                    {
-                                        "label": "Purple"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
+                                        "label": "Out of stock"
                                     }
                                 ]
                             },
@@ -63,124 +33,76 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "casual"
+                                        "label": "Comfortable"
                                     },
                                     {
-                                        "label": "comfortable"
+                                        "label": "Home Decor"
                                     },
                                     {
-                                        "label": "fashion"
+                                        "label": "Soft"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.headboard",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
                                     },
                                     {
-                                        "label": "formal"
+                                        "label": "None"
                                     },
                                     {
-                                        "label": "smart"
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.select frame",
+                                "values": [
+                                    {
+                                        "label": "Metal"
                                     },
                                     {
-                                        "label": "sports"
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Queen"
+                                    },
+                                    {
+                                        "label": "King"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NzYxMzQyMjMwODEyLCJsYXN0X3ZhbHVlIjoiMjAyMy0xMC0wNSAwOTo0MjozOC4wMDAwMDAifQ=="
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjIxMTgyNTYwLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "all",
-                    "title": "All",
+                    "handle": "sofas",
+                    "title": "Sofas",
                     "products": {
                         "filters": [
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.availability",
                                 "values": [
                                     {
-                                        "label": "Beige"
+                                        "label": "In stock"
                                     },
                                     {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Dark Brown"
-                                    },
-                                    {
-                                        "label": "Gray"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Light Green"
-                                    },
-                                    {
-                                        "label": "Orange"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    },
-                                    {
-                                        "label": "Purple"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    },
-                                    {
-                                        "label": "White"
-                                    },
-                                    {
-                                        "label": "white"
-                                    },
-                                    {
-                                        "label": "Yellow"
-                                    },
-                                    {
-                                        "label": "yellow"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "6"
-                                    },
-                                    {
-                                        "label": "7"
-                                    },
-                                    {
-                                        "label": "8"
-                                    },
-                                    {
-                                        "label": "9"
-                                    },
-                                    {
-                                        "label": "10"
-                                    },
-                                    {
-                                        "label": "Standard"
+                                        "label": "Out of stock"
                                     }
                                 ]
                             },
@@ -198,103 +120,196 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "Blouse"
+                                        "label": "couch"
                                     },
                                     {
-                                        "label": "casual"
+                                        "label": "Decora"
                                     },
                                     {
-                                        "label": "Causal"
+                                        "label": "Design"
                                     },
                                     {
-                                        "label": "comfortable"
+                                        "label": "Furniture Design"
                                     },
                                     {
-                                        "label": "Dress"
+                                        "label": "Interior"
                                     },
                                     {
-                                        "label": "experience"
+                                        "label": "Living room Decor"
                                     },
                                     {
-                                        "label": "fashion"
+                                        "label": "livingroom"
                                     },
                                     {
-                                        "label": "formal"
+                                        "label": "Luxury"
                                     },
                                     {
-                                        "label": "leather"
+                                        "label": "sofaminimalis"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.arm height",
+                                "values": [
+                                    {
+                                        "label": "24\" inches"
                                     },
                                     {
-                                        "label": "smart"
+                                        "label": "25\" inches"
                                     },
                                     {
-                                        "label": "sports"
+                                        "label": "26\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "Leather"
+                                    },
+                                    {
+                                        "label": "Velvet"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.fabric color",
+                                "values": [
+                                    {
+                                        "label": "Brick Red"
+                                    },
+                                    {
+                                        "label": "Charcoal"
+                                    },
+                                    {
+                                        "label": "Crushed Gravel"
+                                    },
+                                    {
+                                        "label": "Ivory"
+                                    },
+                                    {
+                                        "label": "Navy Blue"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.flip back cushions",
+                                "values": [
+                                    {
+                                        "label": "Flat"
+                                    },
+                                    {
+                                        "label": "Tufted"
+                                    },
+                                    {
+                                        "label": "Untufted"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg finish",
+                                "values": [
+                                    {
+                                        "label": "Metal"
+                                    },
+                                    {
+                                        "label": "Plastic"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg height",
+                                "values": [
+                                    {
+                                        "label": "7\" inches"
+                                    },
+                                    {
+                                        "label": "8\" inches"
+                                    },
+                                    {
+                                        "label": "9\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat depth",
+                                "values": [
+                                    {
+                                        "label": "2\" inches"
+                                    },
+                                    {
+                                        "label": "22\" inches"
+                                    },
+                                    {
+                                        "label": "23\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat height",
+                                "values": [
+                                    {
+                                        "label": "17\" Inches"
+                                    },
+                                    {
+                                        "label": "18\" Inches"
+                                    },
+                                    {
+                                        "label": "19\" Inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.arm style",
+                                "values": [
+                                    {
+                                        "label": "Arch"
+                                    },
+                                    {
+                                        "label": "Block"
+                                    },
+                                    {
+                                        "label": "Slope"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo4NzYxMzM5NzczMjEyLCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjI1MzQ0MDk2LCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "shoes",
-                    "title": "Shoes",
+                    "handle": "chairs",
+                    "title": "Chairs",
                     "products": {
                         "filters": [
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.availability",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "In stock"
                                     },
                                     {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Gray"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    },
-                                    {
-                                        "label": "White"
-                                    },
-                                    {
-                                        "label": "Yellow"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "6"
-                                    },
-                                    {
-                                        "label": "7"
-                                    },
-                                    {
-                                        "label": "8"
-                                    },
-                                    {
-                                        "label": "9"
-                                    },
-                                    {
-                                        "label": "10"
+                                        "label": "Out of stock"
                                     }
                                 ]
                             },
@@ -312,64 +327,193 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "casual"
+                                        "label": "Cafe"
                                     },
                                     {
-                                        "label": "comfortable"
+                                        "label": "Chair Decor"
                                     },
                                     {
-                                        "label": "fashion"
+                                        "label": "Comfortable"
                                     },
                                     {
-                                        "label": "formal"
+                                        "label": "Dining Chair"
                                     },
                                     {
-                                        "label": "leather"
+                                        "label": "Office furniture"
                                     },
                                     {
-                                        "label": "smart"
+                                        "label": "Pleasure"
                                     },
                                     {
-                                        "label": "sports"
+                                        "label": "Rest"
+                                    },
+                                    {
+                                        "label": "Stool"
+                                    },
+                                    {
+                                        "label": "Vintage"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.choose a frame",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "Fabric & Wood"
+                                    },
+                                    {
+                                        "label": "Leather & Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Black Ash"
+                                    },
+                                    {
+                                        "label": "Camel"
+                                    },
+                                    {
+                                        "label": "Oak"
+                                    },
+                                    {
+                                        "label": "Slate"
+                                    },
+                                    {
+                                        "label": "Slate/"
+                                    },
+                                    {
+                                        "label": "Walnut"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg type",
+                                "values": [
+                                    {
+                                        "label": "Simple"
+                                    },
+                                    {
+                                        "label": "Straight"
+                                    },
+                                    {
+                                        "label": "Tapered"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat height",
+                                "values": [
+                                    {
+                                        "label": "16\" inches"
+                                    },
+                                    {
+                                        "label": "17\" inches"
+                                    },
+                                    {
+                                        "label": "18\" inches"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.seat material",
+                                "values": [
+                                    {
+                                        "label": "100% leather cowhide"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.select fabric color",
+                                "values": [
+                                    {
+                                        "label": "Heather Charcoal"
+                                    },
+                                    {
+                                        "label": "Papyrus"
+                                    },
+                                    {
+                                        "label": "Stone Gray"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.shell material",
+                                "values": [
+                                    {
+                                        "label": "Laminate"
+                                    },
+                                    {
+                                        "label": "Plywood veneer"
+                                    },
+                                    {
+                                        "label": "Walnut"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.weight capacity",
+                                "values": [
+                                    {
+                                        "label": "300 lbs"
+                                    },
+                                    {
+                                        "label": "350 lbs"
+                                    },
+                                    {
+                                        "label": "400 lbs"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkzODY4ODI4LCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjI5NjY5NDcyLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 },
                 {
-                    "handle": "belts",
-                    "title": "Belts",
+                    "handle": "beds",
+                    "title": "Beds",
                     "products": {
                         "filters": [
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.availability",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "In stock"
                                     },
                                     {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Dark Brown"
-                                    },
-                                    {
-                                        "label": "white"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Standard"
+                                        "label": "Out of stock"
                                     }
                                 ]
                             },
@@ -387,43 +531,115 @@
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
-                                        "label": "Causal"
+                                        "label": "Bedding Sets"
                                     },
                                     {
-                                        "label": "comfortable"
+                                        "label": "Bedroom"
                                     },
                                     {
-                                        "label": "fashion"
+                                        "label": "Comfortable"
                                     },
                                     {
-                                        "label": "leather"
+                                        "label": "Furniture"
+                                    },
+                                    {
+                                        "label": "Home Decor"
+                                    },
+                                    {
+                                        "label": "Interior Design"
+                                    },
+                                    {
+                                        "label": "Luxury Bedding"
+                                    },
+                                    {
+                                        "label": "Sleep"
+                                    },
+                                    {
+                                        "label": "Soft"
                                     }
                                 ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkyMDAxMDUyLCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "blazers",
-                    "title": "Blazers",
-                    "products": {
-                        "filters": [
+                            },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.color",
+                                "id": "filter.v.option.capacity",
                                 "values": [
                                     {
-                                        "label": "Black"
+                                        "label": "700 lbs"
                                     },
                                     {
-                                        "label": "Blue"
+                                        "label": "800 lbs"
                                     },
                                     {
-                                        "label": "Green"
+                                        "label": "900 lbs"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.dimensions",
+                                "values": [
+                                    {
+                                        "label": "General Dimensions (King)\t85\" D x 80\" W x 45.25\" H"
+                                    },
+                                    {
+                                        "label": "General Dimensions (Queen)\t85\" D x 64\" W x 42.5\" H"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.fabric color",
+                                "values": [
+                                    {
+                                        "label": "Heather Charcoal"
+                                    },
+                                    {
+                                        "label": "Papyrus"
+                                    },
+                                    {
+                                        "label": "Stone Gray"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.headboard",
+                                "values": [
+                                    {
+                                        "label": "Fabric"
+                                    },
+                                    {
+                                        "label": "None"
+                                    },
+                                    {
+                                        "label": "Wood"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.leg type",
+                                "values": [
+                                    {
+                                        "label": "Round"
+                                    },
+                                    {
+                                        "label": "Straight"
+                                    },
+                                    {
+                                        "label": "Tapered"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.select frame",
+                                "values": [
+                                    {
+                                        "label": "Metal"
+                                    },
+                                    {
+                                        "label": "Wood"
                                     }
                                 ]
                             },
@@ -432,641 +648,44 @@
                                 "id": "filter.v.option.size",
                                 "values": [
                                     {
-                                        "label": "Small"
+                                        "label": "Queen"
                                     },
                                     {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
+                                        "label": "King"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.tag",
+                                "id": "filter.v.option.style",
                                 "values": [
                                     {
-                                        "label": "fashion"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkxOTAyNzQ4LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "wallets",
-                    "title": "Wallets",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
+                                        "label": "Box-spring"
                                     },
                                     {
-                                        "label": "Blue"
+                                        "label": "Continental"
                                     },
                                     {
-                                        "label": "Brown"
+                                        "label": "Elevation"
                                     }
                                 ]
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.v.option.size",
+                                "id": "filter.v.option.wood color",
                                 "values": [
                                     {
-                                        "label": "Standard"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "casual"
+                                        "label": "Oak"
                                     },
                                     {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "leather"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjk2MTk1MzU2LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "shirts",
-                    "title": "Shirts",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Beige"
-                                    },
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Light Green"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Blouse"
-                                    },
-                                    {
-                                        "label": "casual"
-                                    },
-                                    {
-                                        "label": "comfortable"
-                                    },
-                                    {
-                                        "label": "Dress"
-                                    },
-                                    {
-                                        "label": "experience"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "smart"
+                                        "label": "Walnut"
                                     }
                                 ]
                             }
                         ],
                         "pageInfo": {
                             "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkxOTY4Mjg0LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "polo-shirts",
-                    "title": "Polo Shirts",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    },
-                                    {
-                                        "label": "Purple"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "casual"
-                                    },
-                                    {
-                                        "label": "comfortable"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjk1MDQ4NDc2LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "clothing",
-                    "title": "Clothing",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Beige"
-                                    },
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Dark Brown"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Light Green"
-                                    },
-                                    {
-                                        "label": "Orange"
-                                    },
-                                    {
-                                        "label": "Pink"
-                                    },
-                                    {
-                                        "label": "Purple"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    },
-                                    {
-                                        "label": "white"
-                                    },
-                                    {
-                                        "label": "yellow"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "Small"
-                                    },
-                                    {
-                                        "label": "Medium"
-                                    },
-                                    {
-                                        "label": "Large"
-                                    },
-                                    {
-                                        "label": "Standard"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "Blouse"
-                                    },
-                                    {
-                                        "label": "casual"
-                                    },
-                                    {
-                                        "label": "Causal"
-                                    },
-                                    {
-                                        "label": "comfortable"
-                                    },
-                                    {
-                                        "label": "Dress"
-                                    },
-                                    {
-                                        "label": "experience"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "leather"
-                                    },
-                                    {
-                                        "label": "smart"
-                                    },
-                                    {
-                                        "label": "sports"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": true,
-                            "endCursor": "eyJsYXN0X2lkIjo4NzYxMzM5NzczMjEyLCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "loafers",
-                    "title": "Loafers",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "6"
-                                    },
-                                    {
-                                        "label": "7"
-                                    },
-                                    {
-                                        "label": "8"
-                                    },
-                                    {
-                                        "label": "9"
-                                    },
-                                    {
-                                        "label": "10"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "casual"
-                                    },
-                                    {
-                                        "label": "comfortable"
-                                    },
-                                    {
-                                        "label": "formal"
-                                    },
-                                    {
-                                        "label": "leather"
-                                    },
-                                    {
-                                        "label": "smart"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkzMzc3MzA4LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "boots",
-                    "title": "Boots",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Gray"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "White"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "6"
-                                    },
-                                    {
-                                        "label": "7"
-                                    },
-                                    {
-                                        "label": "8"
-                                    },
-                                    {
-                                        "label": "9"
-                                    },
-                                    {
-                                        "label": "10"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "casual"
-                                    },
-                                    {
-                                        "label": "comfortable"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "smart"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkyMDk5MzU2LCJsYXN0X3ZhbHVlIjowfQ=="
-                        }
-                    }
-                },
-                {
-                    "handle": "sneakers",
-                    "title": "Sneakers",
-                    "products": {
-                        "filters": [
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.color",
-                                "values": [
-                                    {
-                                        "label": "Black"
-                                    },
-                                    {
-                                        "label": "Blue"
-                                    },
-                                    {
-                                        "label": "Brown"
-                                    },
-                                    {
-                                        "label": "Gray"
-                                    },
-                                    {
-                                        "label": "Green"
-                                    },
-                                    {
-                                        "label": "Grey"
-                                    },
-                                    {
-                                        "label": "Red"
-                                    },
-                                    {
-                                        "label": "Yellow"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.v.option.size",
-                                "values": [
-                                    {
-                                        "label": "6"
-                                    },
-                                    {
-                                        "label": "7"
-                                    },
-                                    {
-                                        "label": "8"
-                                    },
-                                    {
-                                        "label": "9"
-                                    },
-                                    {
-                                        "label": "10"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "PRICE_RANGE",
-                                "id": "filter.v.price",
-                                "values": [
-                                    {
-                                        "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.tag",
-                                "values": [
-                                    {
-                                        "label": "casual"
-                                    },
-                                    {
-                                        "label": "fashion"
-                                    },
-                                    {
-                                        "label": "sports"
-                                    }
-                                ]
-                            }
-                        ],
-                        "pageInfo": {
-                            "hasNextPage": false,
-                            "endCursor": "eyJsYXN0X2lkIjo4NTEwMjkzODY4ODI4LCJsYXN0X3ZhbHVlIjowfQ=="
+                            "endCursor": "eyJsYXN0X2lkIjo2NzAxNjIzODA0MDAwLCJsYXN0X3ZhbHVlIjowfQ=="
                         }
                     }
                 }
@@ -1077,19 +696,15 @@
                 {
                     "title": "Contact",
                     "handle": "contact"
-                },
-                {
-                    "title": "Contact",
-                    "handle": "contact"
                 }
             ]
         },
         "shop": {
-            "name": "Zeniva Store",
-            "id": "gid://shopify/Shop/75668390172"
+            "name": "Decor Gems",
+            "id": "gid://shopify/Shop/55134584928"
         }
     },
-    "storeDescription": "ghjj7",
+    "storeDescription": "hello",
     "retrain": false,
     "initial_count": 1
 }
