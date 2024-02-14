@@ -704,7 +704,6 @@
             "id": "gid://shopify/Shop/55134584928"
         }
     },
-    "storeDescription": "kuyki767utjyhm",
-    "retrain": false,
-    "initial_count": 1
+    "retrain": true,
+    "initial_count": 2
 }
