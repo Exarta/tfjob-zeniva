@@ -704,25 +704,25 @@
             "id": "gid://shopify/Shop/55134584928"
         }
     },
-    "storeDescription": "tst",
+    "storeDescription": "fgfewr",
     "retrain": false,
     "initial_count": 1,
     "videos": {
         "frontpage": {
             "tag": {
-                "text": "In frontpage, we have products available in Comfortable & Home Decor tags.",
+                "text": "In the frontpage collection we have products available in Comfortable, and Home Decor tags.",
                 "video_id": ""
             },
             "headboard": {
-                "text": "In frontpage, we have products available in Fabric & None headboards.",
+                "text": "In the frontpage collection we have products available in Fabric, and None headboards.",
                 "video_id": ""
             },
             "select frame": {
-                "text": "In frontpage, we have products available in Metal & Wood select frames.",
+                "text": "In the frontpage collection we have products available in Metal, and Wood select frames.",
                 "video_id": ""
             },
             "size": {
-                "text": "In frontpage, we have products available in Queen & King sizes.",
+                "text": "In the frontpage collection we have products available in Queen, and King sizes.",
                 "video_id": ""
             }
         },
@@ -822,129 +822,133 @@
         },
         "sofas": {
             "tag": {
-                "text": "In sofas, we have products available in couch & Decora tags.",
+                "text": "In the sofas collection we have products available in couch, and Decora tags.",
                 "video_id": ""
             },
             "arm height": {
-                "text": "In sofas, we have products available in 24\" inches & 25\" inches arm heights.",
+                "text": "In the sofas collection we have products available in 24\" inches, and 25\" inches arm heights.",
                 "video_id": ""
             },
             "color": {
-                "text": "In sofas, we have products available in Fabric & Leather colors.",
+                "text": "In the sofas collection we have products available in Fabric, and Leather colors.",
                 "video_id": ""
             },
             "fabric color": {
-                "text": "In sofas, we have products available in Brick Red & Charcoal fabric colors.",
+                "text": "In the sofas collection we have products available in Brick Red, and Charcoal fabric colors.",
                 "video_id": ""
             },
             "flip back cushions": {
-                "text": "In sofas, we have products available in Flat & Tufted flip back cushionss.",
+                "text": "In the sofas collection we have products available in Flat, and Tufted flip back cushionss.",
                 "video_id": ""
             },
             "leg finish": {
-                "text": "In sofas, we have products available in Metal & Plastic leg finishs.",
+                "text": "In the sofas collection we have products available in Metal, and Plastic leg finishs.",
                 "video_id": ""
             },
             "leg height": {
-                "text": "In sofas, we have products available in 7\" inches & 8\" inches leg heights.",
+                "text": "In the sofas collection we have products available in 7\" inches, and 8\" inches leg heights.",
                 "video_id": ""
             },
             "seat depth": {
-                "text": "In sofas, we have products available in 2\" inches & 22\" inches seat depths.",
+                "text": "In the sofas collection we have products available in 2\" inches, and 22\" inches seat depths.",
                 "video_id": ""
             },
             "seat height": {
-                "text": "In sofas, we have products available in 17\" Inches & 18\" Inches seat heights.",
+                "text": "In the sofas collection we have products available in 17\" Inches, and 18\" Inches seat heights.",
                 "video_id": ""
             },
             "arm style": {
-                "text": "In sofas, we have products available in Arch & Block arm styles.",
+                "text": "In the sofas collection we have products available in Arch, and Block arm styles.",
                 "video_id": ""
             }
         },
         "chairs": {
             "tag": {
-                "text": "In chairs, we have products available in Cafe & Chair Decor tags.",
+                "text": "In the chairs collection we have products available in Cafe, and Chair Decor tags.",
                 "video_id": ""
             },
             "choose a frame": {
-                "text": "In chairs, we have products available in Fabric & Fabric & Wood choose a frames.",
+                "text": "In the chairs collection we have products available in Fabric, and Fabric & Wood choose a frames.",
                 "video_id": ""
             },
             "color": {
-                "text": "In chairs, we have products available in Black Ash & Camel colors.",
+                "text": "In the chairs collection we have products available in Black Ash, and Camel colors.",
                 "video_id": ""
             },
             "leg type": {
-                "text": "In chairs, we have products available in Simple & Straight leg types.",
+                "text": "In the chairs collection we have products available in Simple, and Straight leg types.",
                 "video_id": ""
             },
             "seat height": {
-                "text": "In chairs, we have products available in 16\" inches & 17\" inches seat heights.",
+                "text": "In the chairs collection we have products available in 16\" inches, and 17\" inches seat heights.",
                 "video_id": ""
             },
             "seat material": {
-                "text": "In chairs, we have products available in 100% leather cowhide seat material.",
+                "text": "In the chairs collection we have products available in the 100% leather cowhide seat material.",
                 "video_id": ""
             },
             "select fabric color": {
-                "text": "In chairs, we have products available in Heather Charcoal & Papyrus select fabric colors.",
+                "text": "In the chairs collection we have products available in Heather Charcoal, and Papyrus select fabric colors.",
                 "video_id": ""
             },
             "shell material": {
-                "text": "In chairs, we have products available in Laminate & Plywood veneer shell materials.",
+                "text": "In the chairs collection we have products available in Laminate, and Plywood veneer shell materials.",
                 "video_id": ""
             },
             "size": {
-                "text": "In chairs, we have products available in Small & Medium sizes.",
+                "text": "In the chairs collection we have products available in Small, and Medium sizes.",
                 "video_id": ""
             },
             "weight capacity": {
-                "text": "In chairs, we have products available in 300 lbs & 350 lbs weight capacitys.",
+                "text": "In the chairs collection we have products available in 300 lbs, and 350 lbs weight capacitys.",
                 "video_id": ""
             }
         },
         "beds": {
             "tag": {
-                "text": "In beds, we have products available in Bedding Sets & Bedroom tags.",
+                "text": "In the beds collection we have products available in Bedding Sets, and Bedroom tags.",
                 "video_id": ""
             },
             "capacity": {
-                "text": "In beds, we have products available in 700 lbs & 800 lbs capacitys.",
+                "text": "In the beds collection we have products available in 700 lbs, and 800 lbs capacitys.",
                 "video_id": ""
             },
             "dimensions": {
-                "text": "In beds, we have products available in General Dimensions (King)\t85\" D x 80\" W x 45.25\" H & General Dimensions (Queen)\t85\" D x 64\" W x 42.5\" H dimensionss.",
+                "text": "In the beds collection we have products available in General Dimensions (King)\t85\" D x 80\" W x 45.25\" H, and General Dimensions (Queen)\t85\" D x 64\" W x 42.5\" H dimensionss.",
                 "video_id": ""
             },
             "fabric color": {
-                "text": "In beds, we have products available in Heather Charcoal & Papyrus fabric colors.",
+                "text": "In the beds collection we have products available in Heather Charcoal, and Papyrus fabric colors.",
                 "video_id": ""
             },
             "headboard": {
-                "text": "In beds, we have products available in Fabric & None headboards.",
+                "text": "In the beds collection we have products available in Fabric, and None headboards.",
                 "video_id": ""
             },
             "leg type": {
-                "text": "In beds, we have products available in Round & Straight leg types.",
+                "text": "In the beds collection we have products available in Round, and Straight leg types.",
                 "video_id": ""
             },
             "select frame": {
-                "text": "In beds, we have products available in Metal & Wood select frames.",
+                "text": "In the beds collection we have products available in Metal, and Wood select frames.",
                 "video_id": ""
             },
             "size": {
-                "text": "In beds, we have products available in Queen & King sizes.",
+                "text": "In the beds collection we have products available in Queen, and King sizes.",
                 "video_id": ""
             },
             "style": {
-                "text": "In beds, we have products available in Box-spring & Continental styles.",
+                "text": "In the beds collection we have products available in Box-spring, and Continental styles.",
                 "video_id": ""
             },
             "wood color": {
-                "text": "In beds, we have products available in Oak & Walnut wood colors.",
+                "text": "In the beds collection we have products available in Oak, and Walnut wood colors.",
                 "video_id": ""
             }
+        },
+        "description": {
+            "text": "fgfewr",
+            "video_id": ""
         }
     }
 }
