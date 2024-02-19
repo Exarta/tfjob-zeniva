@@ -704,7 +704,7 @@
             "id": "gid://shopify/Shop/55134584928"
         }
     },
-    "storeDescription": "fgfewr",
+    "storeDescription": "My store is the best",
     "retrain": false,
     "initial_count": 1,
     "videos": {
@@ -947,7 +947,7 @@
             }
         },
         "description": {
-            "text": "fgfewr",
+            "text": "My store is the best",
             "video_id": ""
         }
     }
