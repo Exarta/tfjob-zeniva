@@ -23,14 +23,9 @@ jobs:
         run: |
           echo "The commit count is ${{ steps.count-commits.outputs.commit_count }}"
         
-
-
-
-
       - name: Update TFJob YAML with commit count
         run: |
           sed -i "s/name: rasa-tfjob$/name: rasa-tfjob-${{ steps.count-commits.outputs.commit_count }}/g" rasa_trainer.yaml
-          echo "This is the output of yaml file\n======================================================"; cat rasa_trainer.yaml
 
       # Install kubectl 
       - name: Install kubectl
