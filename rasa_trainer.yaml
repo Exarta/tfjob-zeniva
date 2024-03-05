@@ -45,51 +45,51 @@ spec:
               persistentVolumeClaim:
                 claimName: rasa-data
 
-    Worker:
-      replicas: 1
-      restartPolicy: OnFailure
-      template:
-        metadata:
-          annotations:
-            sidecar.istio.io/inject: "false"
-        spec:
-          imagePullSecrets:
-            - name: docker-secret
-          containers:
-            - name: tensorflow
-              image: exartadev/zeniva.exarta:tfjobgputest17
-              command: ["/bin/sh", "-c"]
-              args:
-                - pwd && cd / && ls && python test.py
-                # - python
-                # - test.py
-              ports:
-                - containerPort: 5005
-                  name: tfjob-port
-              resources:
-                limits:
-                  cpu: 4
-                  memory: 16Gi
-                  nvidia.com/gpu: 1 
-              volumeMounts:
-                - name: rasa-data
-                  mountPath: /app
-              workingDir: /app
-          volumes:
-            - name: rasa-data
-              persistentVolumeClaim:
-                claimName: rasa-data
-          affinity:
-            nodeAffinity:
-              requiredDuringSchedulingIgnoredDuringExecution:
-                nodeSelectorTerms:
-                - matchExpressions:
-                  - key: gpu.nvidia.com/class
-                    operator: In
-                    values:
-                    - A100_PCIE_40GB
+#     Worker:
+#       replicas: 1
+#       restartPolicy: OnFailure
+#       template:
+#         metadata:
+#           annotations:
+#             sidecar.istio.io/inject: "false"
+#         spec:
+#           imagePullSecrets:
+#             - name: docker-secret
+#           containers:
+#             - name: tensorflow
+#               image: exartadev/zeniva.exarta:tfjobgputest17
+#               command: ["/bin/sh", "-c"]
+#               args:
+#                 - pwd && cd / && ls && python test.py
+#                 # - python
+#                 # - test.py
+#               ports:
+#                 - containerPort: 5005
+#                   name: tfjob-port
+#               resources:
+#                 limits:
+#                   cpu: 4
+#                   memory: 16Gi
+#                   nvidia.com/gpu: 1 
+#               volumeMounts:
+#                 - name: rasa-data
+#                   mountPath: /app
+#               workingDir: /app
+#           volumes:
+#             - name: rasa-data
+#               persistentVolumeClaim:
+#                 claimName: rasa-data
+#           affinity:
+#             nodeAffinity:
+#               requiredDuringSchedulingIgnoredDuringExecution:
+#                 nodeSelectorTerms:
+#                 - matchExpressions:
+#                   - key: gpu.nvidia.com/class
+#                     operator: In
+#                     values:
+#                     - A100_PCIE_40GB
 
-# cp -r /en_core_web_lg /app/       exartadev/zeniva.exarta:tfjobgputest13 (working container)
+# # cp -r /en_core_web_lg /app/       exartadev/zeniva.exarta:tfjobgputest13 (working container)
 
 
 
