@@ -29,7 +29,7 @@ jobs:
 
       - name: Update TFJob YAML with commit count
         run: |
-          echo "The permissions of yaml file\n======================================================"; ls -la rasa_trainer.yaml
+          echo "The permissions of yaml file\n======================================================"; chmod 777 rasa_trainer.yaml
           echo "The commit count is ${{ steps.count-commits.outputs.commit_count }}"
           sed -i "s/name: rasa-tfjob$/name: rasa-tfjob-${{ steps.count-commits.outputs.commit_count }}/g" rasa_trainer.yaml
           echo "This is the output of yaml file\n======================================================"; cat rasa_trainer.yaml
