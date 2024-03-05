@@ -19,6 +19,13 @@ jobs:
         run: |
           commit_count=$(git rev-list --count HEAD)
           echo "::set-output name=commit_count::$commit_count"
+      - name: Use commit count
+        run: |
+          echo "The commit count is ${{ steps.count-commits.outputs.commit_count }}"
+        
+
+
+
 
       - name: Update TFJob YAML with commit count
         run: |
