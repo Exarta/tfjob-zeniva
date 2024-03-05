@@ -1613,13 +1613,13 @@
             ]
         },
         "shop": {
-            "name": "Grace",
-            "id": "gid://shopify/Shop/62889918655"
+            "name": "Grace2",
+            "id": "gid://shopify/Shop/628899186551"
         }
     },
-    "storeDescription": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!!",
-    "retrain": true,
-    "initial_count": 5,
+    "storeDescription": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!!!",
+    "retrain": false,
+    "initial_count": 1,
     "videos": {
         "t-shirts": {
             "tag": {
@@ -1858,7 +1858,7 @@
             }
         },
         "description": {
-            "text": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!!",
+            "text": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!!!",
             "video_id": ""
         }
     }
