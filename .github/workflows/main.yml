@@ -1,0 +1,40 @@
+name: Update TFJob and Deploy
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  Rasa_Traning_Deployment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for accurate commit count
+
+      - name: Count commits
+        id: count-commits
+        run: |
+          commit_count=$(git rev-list --count HEAD)
+          echo "::set-output name=commit_count::$commit_count"
+
+      - name: Update TFJob YAML with commit count
+        run: |
+          sed -i "s/name: rasa-tfjob$/name: rasa-tfjob-${{ steps.count-commits.outputs.commit_count }}/g" rasa_trainer.yaml
+
+      # Install kubectl 
+      - name: Install kubectl
+        uses: azure/setup-kubectl@v3
+        with:
+          version: '1.26.0'
+      - run: kubectl version --client
+
+
+      # Deploy to KUbernetes         
+      - uses: actions-hub/kubectl@master
+        env:
+          KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
+        with:
+          args: apply -f rasa_trainer.yaml
