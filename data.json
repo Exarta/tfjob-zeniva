@@ -30,15 +30,6 @@
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Shirt"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
@@ -157,15 +148,6 @@
                                 "values": [
                                     {
                                         "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Shirt"
                                     }
                                 ]
                             },
@@ -340,18 +322,6 @@
                                 "values": [
                                     {
                                         "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Jewellry"
-                                    },
-                                    {
-                                        "label": "Jewelry"
                                     }
                                 ]
                             },
@@ -627,18 +597,6 @@
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Belts"
-                                    },
-                                    {
-                                        "label": "Handbag"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
@@ -861,15 +819,6 @@
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "sweatShirt"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
@@ -976,18 +925,6 @@
                                 "values": [
                                     {
                                         "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Shirt"
-                                    },
-                                    {
-                                        "label": "sweater"
                                     }
                                 ]
                             },
@@ -1138,21 +1075,6 @@
                                 "values": [
                                     {
                                         "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Shirt"
-                                    },
-                                    {
-                                        "label": "sweater"
-                                    },
-                                    {
-                                        "label": "sweatShirt"
                                     }
                                 ]
                             },
@@ -1315,15 +1237,6 @@
                                 "values": [
                                     {
                                         "label": "Price"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Shirt"
                                     }
                                 ]
                             },
@@ -1524,24 +1437,6 @@
                             },
                             {
                                 "type": "LIST",
-                                "id": "filter.p.product_type",
-                                "values": [
-                                    {
-                                        "label": "Belts"
-                                    },
-                                    {
-                                        "label": "Handbag"
-                                    },
-                                    {
-                                        "label": "Jewellry"
-                                    },
-                                    {
-                                        "label": "Jewelry"
-                                    }
-                                ]
-                            },
-                            {
-                                "type": "LIST",
                                 "id": "filter.p.tag",
                                 "values": [
                                     {
@@ -1718,11 +1613,9 @@
             ]
         },
         "shop": {
-            "name": "Grace122",
-            "id": "gid: //shopify/Shop/62889918655112"
+            "name": "Grace",
+            "id": "gid://shopify/Shop/62889918655"
         }
     },
-    "storeDescription": "Grace is the best clothing store out there newwwwwwwwwww!",
-    "retrain": false,
-    "intial_count": 1
+    "storeDescription": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today."
 }
