@@ -1617,5 +1617,249 @@
             "id": "gid://shopify/Shop/62889918655"
         }
     },
-    "storeDescription": "Gracee is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today."
+    "storeDescription": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!!",
+    "retrain": true,
+    "initial_count": 5,
+    "videos": {
+        "t-shirts": {
+            "tag": {
+                "text": "In the t-shirts collection we have products available in Comfortable, and Different tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the t-shirts collection we have products available in Black, and Dark Beige colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the t-shirts collection we have products available in Cotton, and Polyamide materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the t-shirts collection we have products available in Small, and Medium sizes.",
+                "video_id": ""
+            }
+        },
+        "main": {
+            "tag": {
+                "text": "In our store, we have products available in Carry & Causal tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In our store, we have products available in Black & Brown colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In our store, we have products available in Gold & Leather materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In our store, we have products available in Small & Medium sizes.",
+                "video_id": ""
+            },
+            "style": {
+                "text": "In our store, we have products available in Formal style.",
+                "video_id": ""
+            }
+        },
+        "shirts": {
+            "tag": {
+                "text": "In the shirts collection we have products available in Carry, and Causal tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the shirts collection we have products available in Beige, and Black colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the shirts collection we have products available in Cotton, and Garbardine materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the shirts collection we have products available in Extra Small, and Extra small sizes.",
+                "video_id": ""
+            },
+            "style": {
+                "text": "In the shirts collection we have products available in the Cropped style.",
+                "video_id": ""
+            }
+        },
+        "jewellery": {
+            "tag": {
+                "text": "In the jewellery collection we have products available in Causal, and Classy tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the jewellery collection we have products available in Brown, and Golden colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the jewellery collection we have products available in Gold, and Metal materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the jewellery collection we have products available in Regular, and Standard sizes.",
+                "video_id": ""
+            }
+        },
+        "belts": {
+            "tag": {
+                "text": "In the belts collection we have products available in Causal, and Classy tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the belts collection we have products available in Black, and Brown colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the belts collection we have products available in Leather, and Metal materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the belts collection we have products available in Medium, and Regular sizes.",
+                "video_id": ""
+            },
+            "style": {
+                "text": "In the belts collection we have products available in the Formal style.",
+                "video_id": ""
+            }
+        },
+        "bags": {
+            "tag": {
+                "text": "In the bags collection we have products available in Carry, and Classy tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the bags collection we have products available in Black, and Grey colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the bags collection we have products available in Leather, and Nylon materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the bags collection we have products available in Small, and Medium sizes.",
+                "video_id": ""
+            }
+        },
+        "hoodies": {
+            "tag": {
+                "text": "In the hoodies collection we have products available in fashion, and Street Style tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the hoodies collection we have products available in Black, and Off White colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the hoodies collection we have products available in Cotton, and Fleece materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the hoodies collection we have products available in Small, and Medium sizes.",
+                "video_id": ""
+            }
+        },
+        "sweat-shirts": {
+            "tag": {
+                "text": "In the sweat-shirts collection we have products available in Causal, and Comfortable tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the sweat-shirts collection we have products available in Black, and Grey colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the sweat-shirts collection we have products available in Fleece, and Polyester materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the sweat-shirts collection we have products available in Extra Small, and Small sizes.",
+                "video_id": ""
+            }
+        },
+        "sweater": {
+            "tag": {
+                "text": "In the sweater collection we have products available in Causal, and Classy tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the sweater collection we have products available in Black, and Brown colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the sweater collection we have products available in Cotton, and Wool materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the sweater collection we have products available in Extra Small, and Extra small sizes.",
+                "video_id": ""
+            }
+        },
+        "winter-collection": {
+            "tag": {
+                "text": "In the winter-collection collection we have products available in Causal, and Classy tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the winter-collection collection we have products available in Black, and Brown colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the winter-collection collection we have products available in Cotton, and Fleece materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the winter-collection collection we have products available in Extra Small, and Extra small sizes.",
+                "video_id": ""
+            }
+        },
+        "summer-collection": {
+            "tag": {
+                "text": "In the summer-collection collection we have products available in Carry, and Causal tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the summer-collection collection we have products available in Beige, and Black colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the summer-collection collection we have products available in Cotton, and Garbardine materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the summer-collection collection we have products available in Extra Small, and Extra small sizes.",
+                "video_id": ""
+            },
+            "style": {
+                "text": "In the summer-collection collection we have products available in the Cropped style.",
+                "video_id": ""
+            }
+        },
+        "accessories": {
+            "tag": {
+                "text": "In the accessories collection we have products available in Carry, and Causal tags.",
+                "video_id": ""
+            },
+            "color": {
+                "text": "In the accessories collection we have products available in Black, and Brown colors.",
+                "video_id": ""
+            },
+            "material": {
+                "text": "In the accessories collection we have products available in Gold, and Leather materials.",
+                "video_id": ""
+            },
+            "size": {
+                "text": "In the accessories collection we have products available in Small, and Medium sizes.",
+                "video_id": ""
+            },
+            "style": {
+                "text": "In the accessories collection we have products available in the Formal style.",
+                "video_id": ""
+            }
+        },
+        "description": {
+            "text": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!!",
+            "video_id": ""
+        }
+    }
 }
