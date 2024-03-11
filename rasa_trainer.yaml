@@ -57,7 +57,7 @@ spec:
             - name: docker-secret
           containers:
             - name: tensorflow
-              image: exartadev/zeniva.exarta:tfjobgputest20
+              image: exartadev/zeniva.exarta:tfjobgputest21
               command: ["/bin/sh", "-c"]
               args:
                 - pwd && cd / && ls && python test.py
