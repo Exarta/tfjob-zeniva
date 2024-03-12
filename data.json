@@ -54,7 +54,7 @@
                                         "label": "slim"
                                     },
                                     {
-                                        "label": "Street Stylee"
+                                        "label": "Street Style"
                                     },
                                     {
                                         "label": "stylish"
@@ -1613,8 +1613,8 @@
             ]
         },
         "shop": {
-            "name": "Grace6",
-            "id": "gid://shopify/Shop/628899186556"
+            "name": "Grace7",
+            "id": "gid://shopify/Shop/628899186557"
         }
     },
     "storeDescription": "Grace is a clothing store that provides lxury outerwear to its customers considering the lastest trends in fashion today!!",
@@ -1849,7 +1849,7 @@
                 "video_id": ""
             },
             "size": {
-                "text": "In the accessories collection we have products available in Small, and Medium ssizes.",
+                "text": "In the accessories collection we have products available in Small, and Medium sizes.",
                 "video_id": ""
             },
             "style": {
