@@ -274,11 +274,11 @@
             ]
         },
         "shop": {
-            "name": "Zeniva shop",
-            "id": "gid://shopify/Shop/57725780033"
+            "name": "Zeniva shop0",
+            "id": "gid://shopify/Shop/577257800330"
         }
     },
-    "storeDescription": "This store has 3 filterss",
+    "storeDescription": "This store has 3 filtersss",
     "retrain": false,
     "initial_count": 1,
     "videos": {
@@ -355,7 +355,7 @@
             }
         },
         "description": {
-            "text": "This store has 3 filterss",
+            "text": "This store has 3 filtersss",
             "video_id": ""
         }
     }
