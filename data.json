@@ -1617,9 +1617,9 @@
             "id": "gid://shopify/Shop/62889918655"
         }
     },
-    "storeDescription": "Grace is a Luxury outerwear store that focuses on delivering the lastest trends to its customers!",
-    "retrain": false,
-    "initial_count": 1,
+    "storeDescription": "Grace is a Luxury outerwear store that focuses on delivering the lastest trends to its customers!!",
+    "retrain": true,
+    "initial_count": 2,
     "videos": {
         "t-shirts": {
             "tag": {
@@ -1858,7 +1858,7 @@
             }
         },
         "description": {
-            "text": "Grace is a Luxury outerwear store that focuses on delivering the lastest trends to its customers!",
+            "text": "Grace is a Luxury outerwear store that focuses on delivering the lastest trends to its customers!!",
             "video_id": ""
         }
     }
