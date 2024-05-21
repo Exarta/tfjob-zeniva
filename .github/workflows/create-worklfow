@@ -2,6 +2,8 @@ name: Update TFJob and Deploy
 
 on:
   create:
+    branches:
+      - '**'
 
 jobs:
   Rasa_Training_Deployment:
