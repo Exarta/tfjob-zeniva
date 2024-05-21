@@ -2,12 +2,15 @@ name: Update TFJob and Deploy
 
 on:
   create:
+
 jobs:
-  Rasa_Traning_Deployment:
+  Rasa_Training_Deployment:
     runs-on: ubuntu-latest
 
     steps:
-     
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       # Install kubectl 
       - name: Install kubectl
         uses: azure/setup-kubectl@v3
@@ -15,9 +18,9 @@ jobs:
           version: 'latest'
       - run: kubectl version --client
 
-
-      # Deploy to KUbernetes         
-      - uses: actions-hub/kubectl@master
+      # Deploy to Kubernetes         
+      - name: Deploy to Kubernetes
+        uses: actions-hub/kubectl@master
         env:
           KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
         with:
