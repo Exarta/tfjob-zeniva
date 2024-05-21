@@ -19,7 +19,7 @@ jobs:
       - run: kubectl version --client
 
       - run: pwd
-      - run: ls
+      - run: cd /
 
       # Deploy to KUbernetes         
       - uses: actions-hub/kubectl@master
