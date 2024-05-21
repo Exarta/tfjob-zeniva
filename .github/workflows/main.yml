@@ -18,6 +18,7 @@ jobs:
           version: 'latest'
       - run: kubectl version --client
 
+      - run: pwd && ls
 
       # Deploy to KUbernetes         
       - uses: actions-hub/kubectl@master
