@@ -12,7 +12,10 @@ jobs:
     steps:
       # Install kubectl 
       - name: Install kubectl
-        run: curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl && chmod +x ./kubectl && sudo mv ./kubectl /usr/local/bin/kubectl               
+        run: |
+         curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl
+         chmod +x ./kubectl
+         sudo mv ./kubectl /usr/local/bin/kubectl
         # uses: azure/setup-kubectl@v3
         # with:
         #   version: 'v1.30.1'
