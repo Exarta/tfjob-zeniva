@@ -16,7 +16,7 @@ jobs:
         with:
            version: v1.26.15
 
-      - run: kubectl version 
+      - run: kubectl version --short
       - name: Checkout repository
         uses: actions/checkout@v3
         
