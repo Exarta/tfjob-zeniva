@@ -15,7 +15,8 @@ jobs:
 
       - uses: marcofranssen/setup-kubectl@v0.3.0
         id: kubectl
-      - run: echo ${{ steps.kubectl.output.kubectl-version }}
+        with:
+          kubectl-version: v1.20.15
           
       # # Install kubectl 
       # - name: Setup Kubectl
