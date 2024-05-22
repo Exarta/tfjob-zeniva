@@ -16,7 +16,7 @@ jobs:
         with:
           version: latest
      
-    
+      - run: kubectl config get-contexts
 
       - run: kubectl version --client
 
