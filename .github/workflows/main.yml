@@ -11,19 +11,12 @@ jobs:
 
     steps:
       # Install kubectl 
-      # - name: Setup Kubectl
-      #   uses: azure/setup-kubectl@v3
-      #   with:
-      #     version: latest
-      - uses: azure/setup-kubectl@v3
+      - name: Setup Kubectl
+        uses: azure/setup-kubectl@v3
         with:
            version: v1.26.15
 
-      - run: kubectl config get-contexts
-
-      - run: kubectl version --client
-
-      - run:  kubectl version
+      - run: kubectl version 
       - name: Checkout repository
         uses: actions/checkout@v3
         
