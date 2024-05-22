@@ -1,0 +1,29 @@
+name: Update TFJob and Deploy
+
+on:
+  push:
+   - main
+
+jobs:
+  Rasa_Training_Deployment:
+    runs-on: ubuntu-latest
+
+    steps:
+
+      # Install kubectl 
+      - name: Install kubectl
+        uses: azure/setup-kubectl@v3
+        with:
+          version: 'v1.30.1'
+      - run: kubectl version --client
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      # Deploy to Kubernetes         
+      - name: Deploy to Kubernetes
+        uses: actions-hub/kubectl@master
+        env:
+          KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
+        with:
+          args: apply -f rasa_trainer.yaml
