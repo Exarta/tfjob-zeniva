@@ -24,7 +24,7 @@ jobs:
         with:
            version: latest
            
-      - run: kubectl version
+      # - run: kubectl version
     
       # Deploy to Kubernetes         
       - name: Deploy to Kubernetes
