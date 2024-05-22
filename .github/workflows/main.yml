@@ -3,7 +3,7 @@ name: Update TFJob and Deploy
 on:
   push:
     branches: 
-        "*"
+        ${GITHUB_REF#refs/heads/}
 
 jobs:
   Rasa_Traning_Deployment:
