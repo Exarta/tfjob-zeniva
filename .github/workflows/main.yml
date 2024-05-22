@@ -15,9 +15,10 @@ jobs:
       #   uses: azure/setup-kubectl@v3
       #   with:
       #     version: latest
-      - uses: azure/setup-kubectl@v3
+      - uses: marcofranssen/setup-kubectl@v0.3.0
+        id: kubectl
         with:
-           version: v1.29.2
+           kubectl-version: v1.24.5
 
       - run: kubectl config get-contexts
 
