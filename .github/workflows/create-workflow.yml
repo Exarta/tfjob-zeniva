@@ -2,8 +2,6 @@ name: Update TFJob and Deploy
 
 on:
   create:
-    branches:
-      - '**'
 
 jobs:
   Rasa_Training_Deployment:
@@ -18,6 +16,9 @@ jobs:
           version: 'latest'
       - run: kubectl version --client
 
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
       # Deploy to Kubernetes         
       - name: Deploy to Kubernetes
         uses: actions-hub/kubectl@master
