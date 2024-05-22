@@ -15,7 +15,7 @@ jobs:
       #   uses: azure/setup-kubectl@v3
       #   with:
       #     version: latest
-      - run: kubectl version --client
+     
     
       
       - name: Install kubectl
@@ -28,7 +28,7 @@ jobs:
       - name: List Kubernetes Contexts
         run: |
           kubectl config get-contexts
-      
+      - run: kubectl version --client
       - run: kubectl config current-context
       - run:  kubectl version
       - name: Checkout repository
