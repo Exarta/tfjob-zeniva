@@ -21,7 +21,9 @@ jobs:
       - name: Install kubectl
         uses: azure/k8s-set-context@v1
         with:
-          method: install
+         method: kubeconfig
+         kubeconfig:  ${{ secrets.KUBE_CONFIG }}
+         context: default
 
       - name: List Kubernetes Contexts
         run: |
