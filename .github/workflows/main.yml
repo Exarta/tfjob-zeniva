@@ -17,8 +17,9 @@ jobs:
           version: latest
       - run: kubectl version --client
     
-      - run: kubectl config current-context
       - run: kubectl config use-context coreweave
+      
+      - run: kubectl config current-context
       - run:  kubectl version
       - name: Checkout repository
         uses: actions/checkout@v3
