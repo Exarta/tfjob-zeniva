@@ -18,19 +18,19 @@ jobs:
      
     
       
-      - name: Install kubectl
-        uses: azure/k8s-set-context@v1
-        with:
-         method: kubeconfig
-         kubeconfig:  ${{ secrets.KUBE_CONFIG }}
-         context: default
+      # - name: Install kubectl
+      #   uses: azure/k8s-set-context@v1
+      #   with:
+      #    method: kubeconfig
+      #    kubeconfig:  ${{ secrets.KUBE_CONFIG }}
+      #    context: default
 
-      - name: List Kubernetes Contexts
-        run: |
-          kubectl config get-contexts
-      - run: kubectl version --client
-      - run: kubectl config current-context
-      - run:  kubectl version
+      # - name: List Kubernetes Contexts
+      #   run: |
+      #     kubectl config get-contexts
+      # - run: kubectl version --client
+      # - run: kubectl config current-context
+      # - run:  kubectl version
       - name: Checkout repository
         uses: actions/checkout@v3
         
