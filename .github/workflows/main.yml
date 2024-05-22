@@ -16,9 +16,7 @@ jobs:
         with:
           version: latest
       - run: kubectl version --client
-    
-      - run: kubectl version --client
-      - run: kubectl version --short
+      - run:  kubectl version
       
       - name: Checkout repository
         uses: actions/checkout@v3
