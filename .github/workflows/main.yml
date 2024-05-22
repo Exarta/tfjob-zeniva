@@ -3,7 +3,7 @@ name: Update TFJob and Deploy
 on:
  push:
    branches:
-    - main
+    - master
 
 jobs:
   Rasa_Training_Deployment:
