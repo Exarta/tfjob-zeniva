@@ -13,17 +13,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
      
-      - uses: ThomasKliszowski/setup-kubectl@v1
-        with:
-          kube-config: ${{ secrets.KUBE_CONFIG }}
-          kube-version: 1.20.15
-          
-      # # Install kubectl 
-      # - name: Setup Kubectl
-      #   uses: azure/setup-kubectl@v3
+      # - uses: ThomasKliszowski/setup-kubectl@v1
       #   with:
-      #      version: v1.20.15
-      
+      #     kube-config: ${{ secrets.KUBE_CONFIG }}
+      #     kube-version: 1.20.15
+          
+      # Install kubectl 
+      - name: Setup Kubectl
+        uses: azure/setup-kubectl@v3
+        with:
+           version: latest
+           
       - run: kubectl version
     
       # Deploy to Kubernetes         
