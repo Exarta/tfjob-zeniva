@@ -18,7 +18,7 @@ jobs:
       - uses: marcofranssen/setup-kubectl@v0.3.0
         id: kubectl
         with:
-           kubectl-version: v1.24.5
+           kubectl-version: v1.26.0
 
       - run: kubectl config get-contexts
 
