@@ -3,7 +3,7 @@ name: Update TFJob and Deploy
 on:
   push:
     branches: 
-       ${github.ref_name}
+      - ${github.ref_name}
 
 
 jobs:
