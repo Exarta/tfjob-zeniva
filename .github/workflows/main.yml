@@ -10,16 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
       # Install kubectl 
       - name: Setup Kubectl
         uses: azure/setup-kubectl@v3
         with:
            version: v1.20.15
 
-      - run: kubectl version
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        
+      # - run: kubectl version
+    
       # Deploy to Kubernetes         
       - name: Deploy to Kubernetes
         uses: actions-hub/kubectl@master
