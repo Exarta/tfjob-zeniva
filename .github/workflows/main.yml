@@ -13,9 +13,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - uses: actions-hub/kubectl@master
-        env:
-          KUBE_CONFIG: ${{ secrets.KUBE_CONFIG }}
+      - uses: marcofranssen/setup-kubectl@v0.3.0
+        id: kubectl
+      - run: echo ${{ steps.kubectl.output.kubectl-version }}
           
       # # Install kubectl 
       # - name: Setup Kubectl
