@@ -3,8 +3,7 @@ on:
   create:
   push:
     paths:
-      - 'actions/**'
-
+      - 'rasa_trainer.yaml'
 jobs:
   handle-create:
     if: github.event_name == 'create'
