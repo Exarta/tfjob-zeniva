@@ -1,84 +1,18 @@
 apiVersion: kubeflow.org/v1
 kind: TFJob
 metadata:
-  name: rasa-tfjob
-  namespace: tenant-7654b5-pilot
+  name: rasa-tfjob-cnd-paradise-88467603765-0
+  namespace: tenant-7654b5-asrpods
 spec:
   tfReplicaSpecs:
-    PS:
-      replicas: 1
-      restartPolicy: OnFailure
-      template:
-        metadata:
-          labels:
-            app: shopify-trainer
-          annotations:
-            sidecar.istio.io/inject: "false"
-        spec:
-          imagePullSecrets:
-            - name: docker-secret
-          containers:
-            - name: datafetch
-              image: python:3.10
-              command: ["/bin/sh", "-c"]
-              args:
-              #  - /usr/bin/git clone https://github.com/Exarta/tfjob-zeniva.git
-               - pwd && wget https://github.com/Exarta/tfjob-zeniva/raw/master/data.json   # && cp -r /en_core_web_lg /app/tfjob-zeniva/
-              # - /usr/bin/git
-              # - clone
-              # - https://github.com/Exarta/tfjob-zeniva.git
-
-              imagePullPolicy: Always
-              ports:
-                - containerPort: 5005
-                  name: tfjob-port
-              resources:
-                limits:
-                  cpu: 1
-                  memory: 1Gi
-              volumeMounts:
-                - name: rasa-data
-                  mountPath: /app
-              workingDir: /app
-          volumes:
-            - name: rasa-data
-              persistentVolumeClaim:
-                claimName: rasa-data
-
     Worker:
       replicas: 1
       restartPolicy: OnFailure
       template:
         metadata:
           annotations:
-            sidecar.istio.io/inject: "false"
+            sidecar.istio.io/inject: 'false'
         spec:
-          imagePullSecrets:
-            - name: docker-secret
-          containers:
-            - name: tensorflow
-              image: exartadev/zeniva.exarta:tfjobgputest26
-              command: ["/bin/sh", "-c"]
-              args:
-                - pwd && cd / && ls && python test.py
-                # - python
-                # - test.py
-              ports:
-                - containerPort: 5005
-                  name: tfjob-port
-              resources:
-                limits:
-                  cpu: 4
-                  memory: 16Gi
-                  nvidia.com/gpu: 1 
-              volumeMounts:
-                - name: rasa-data
-                  mountPath: /app
-              workingDir: /app
-          volumes:
-            - name: rasa-data
-              persistentVolumeClaim:
-                claimName: rasa-data
           affinity:
             nodeAffinity:
               requiredDuringSchedulingIgnoredDuringExecution:
@@ -88,5 +22,32 @@ spec:
                     operator: In
                     values:
                     - A100_PCIE_40GB
-
-# cp -r /en_core_web_lg /app/       exartadev/zeniva.exarta:tfjobgputest13 (working container)
+          containers:
+          - args:
+            - pwd && curl https://zeniva-shopify-ord1.object.ord1.coreweave.com/shopify/models/data-cnd-paradise-88467603765-0.json
+              --output data-cnd-paradise-88467603765-0.json && ls && cd / && ls &&
+              python test.py /app/data-cnd-paradise-88467603765-0.json && ls
+            command:
+            - /bin/sh
+            - -c
+            image: exartadev/zeniva.exarta:tfjobgputest41
+            imagePullPolicy: IfNotPresent
+            name: tensorflow
+            ports:
+            - containerPort: 5005
+              name: tfjob-port
+            resources:
+              limits:
+                cpu: 4
+                memory: 16Gi
+                nvidia.com/gpu: 1
+            volumeMounts:
+            - mountPath: /app
+              name: cache-volume
+            workingDir: /app
+          imagePullSecrets:
+          - name: dockerhub-secret
+          volumes:
+          - emptyDir:
+              sizeLimit: 500Mi
+            name: cache-volume
