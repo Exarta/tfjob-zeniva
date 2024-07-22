@@ -1,0 +1,1799 @@
+{
+    "data": {
+        "collections": {
+            "nodes": [
+                {
+                    "handle": "sweatshirts",
+                    "title": "Sweatshirts",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NTExMTIxNzgxMDE5LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "t-shirts",
+                    "title": "T-Shirts",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NTExMTIyNDY5MTQ3LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "muffin",
+                    "title": "Muffin",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NTExMTIxNzgxMDE5LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "tabby",
+                    "title": "Tabby",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NTI1NzI0MzE1OTMxLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "buddy",
+                    "title": "Buddy",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NTExMTIzNjE2MDI3LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                }
+            ]
+        },
+        "pages": {
+            "nodes": [
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                },
+                {
+                    "title": "Avatars",
+                    "handle": "by-avatar"
+                }
+            ]
+        },
+        "shop": {
+            "name": "Snuggled",
+            "id": "gid://shopify/Shop/88804229403"
+        },
+        "products": [
+            {
+                "description": "Take the cold seasons in style with this premium crew neck sweatshirt. Available in multiple colors, this sweatshirt is sure to keep you warm and stylish all day long. Featuring a 3-end fleece fabric, it has a real tight-knit construction giving it better quality and durability. It\u2019s not only beautiful but also comfy and soft to the touch with the best in its class and under 5% shrinkage. Fabric: 80% cotton, 20% polyester (fabric content varies for different colors)Medium-heavy fabric (8.25 oz /yd\u00b2 (280 g/m\u00b2)) Fit: Regular fit Tear away labelRuns true to size S M L XL 2XL Width, in 20.00 22.01 24.02 25.98 27.99 Length, in 27.01 27.99 28.98 30.00 30.98 Sleeve length, in 25.79 25.98 26.18 26.38 26.57",
+                "handle": "muffin-adults-unisex-crewneck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49117791879451",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/3723679635410797436_2048.jpg?v=1720535712"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117791912219",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1391820265352682668_2048.jpg?v=1720535712"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117791944987",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Heather Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/368913023643445799_2048.jpg?v=1720535713"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117791977755",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/2569518377500823203_2048.jpg?v=1720535714"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117792010523",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/3723679635410797436_2048.jpg?v=1720535712"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117792043291",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1391820265352682668_2048.jpg?v=1720535712"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117792076059",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Heather Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/368913023643445799_2048.jpg?v=1720535713"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117792108827",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/2569518377500823203_2048.jpg?v=1720535714"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117792141595",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/3723679635410797436_2048.jpg?v=1720535712"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117792174363",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1391820265352682668_2048.jpg?v=1720535712"
+                            }
+                        }
+                    ]
+                },
+                "title": "Muffin (Adults) Unisex Crewneck Sweatshirt"
+            },
+            {
+                "description": "Snuggles introduces the Snuggles garment-dyed t-shirt; a fully customizable tee made 100% with ring-spun cotton. The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice. The double-needle stitching throughout the tee makes it highly durable while the lack of side-seams helps the shirt retain its tubular shape. Key features Fabric: The Snuggles tee is made with medium fabric (6.1 oz/yd\u00b2 (206.8 g/m\u00b2)) consisting of high quality, 100% ring-spun US cotton for long-lasting comfort. Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. Fit: The relaxed fit keeps the wearer comfy in both casual and semi-formal settings while the crew neckline delivers that classic, neat style which makes it perfect for accessorizing. Pre-Shrunk: The pre-shrunk fabric ensures a consistently great fit. Check all available sizes in our Snuggles size chart. S M L XL 2XL 3XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50",
+                "handle": "muffin-adults-unisex-garment-dyed-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794009371",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/11654380700736857333_2048.jpg?v=1720527518"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794042139",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/6530434817686084438_2048.jpg?v=1720527519"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794074907",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Berry"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/3664934908897932975_2048.jpg?v=1720527519"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794107675",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17166450474541565439_2048.jpg?v=1720527520"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794140443",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Moss"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/16249577579306168159_2048.jpg?v=1720527517"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794173211",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Watermelon"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/2921390189975751153_2048.jpg?v=1720527521"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794205979",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/11654380700736857333_2048.jpg?v=1720527518"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794238747",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/6530434817686084438_2048.jpg?v=1720527519"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794271515",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Berry"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/3664934908897932975_2048.jpg?v=1720527519"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117794304283",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17166450474541565439_2048.jpg?v=1720527520"
+                            }
+                        }
+                    ]
+                },
+                "title": "Muffin (Adults) Unisex Garment-Dyed T-shirt"
+            },
+            {
+                "description": "The kids heavy cotton tee is perfect for everyday use. The fabric is 100% cotton for solid colors. Polyester is included for heather-color variants. These fabrics are prime materials for printing. The shoulders have twill tape for improved durability. The collar is curl resistant due to ribbed knitting. There are no seams along the sides. Fabric: Made with 100%, midweight (5.3 oz/yd\u00b2 (180 g/m\u00b2)), US cotton that feels soft to the touch and a great choice for any season. Made using ethically grown and harvested US cotton. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance. Style: The crew neckline along with the tee's classic fit, deliver a timeless style that is perfect for daily use. Tear-away Labels: All t-shirts come with pearlized, tear-away labels for total comfort and a scratch-free experience. Fabric blends: Heather colors - 50% cotton, 50% polyester, Sport Grey - 90% cotton, 10% polyester. XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32",
+                "handle": "muffin-kids-heavy-cotton\u2122-tee",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795516699",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048_81cf3525-0cf2-40a1-9c6d-5139b8f27a2b.jpg?v=1720533844"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795549467",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048.jpg?v=1720533842"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795582235",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048_afc49366-6914-4d0d-a8d0-a585709d6ba0.jpg?v=1720533844"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795615003",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048_2fd2a50c-3154-4b9f-a816-ec2b16c82c67.jpg?v=1720533845"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795647771",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Sport Grey"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/13550912129638858698_2048.jpg?v=1720533846"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795680539",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/5037904067709744588_2048.jpg?v=1720533846"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795713307",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Tennessee Orange"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048_cd9e5764-c547-46d6-9e71-b9aa30754550.jpg?v=1720533847"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795746075",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048_81cf3525-0cf2-40a1-9c6d-5139b8f27a2b.jpg?v=1720533844"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795778843",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048.jpg?v=1720533842"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117795811611",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18073404782405261068_2048_afc49366-6914-4d0d-a8d0-a585709d6ba0.jpg?v=1720533844"
+                            }
+                        }
+                    ]
+                },
+                "title": "Muffin (Kids) Heavy Cotton\u2122 Tee"
+            },
+            {
+                "description": "The kids heavy cotton tee is perfect for everyday use. The fabric is 100% cotton for solid colors. Polyester is included for heather-color variants. These fabrics are prime materials for printing. The shoulders have twill tape for improved durability. The collar is curl resistant due to ribbed knitting. There are no seams along the sides. Fabric: Made with 100%, midweight (5.3 oz/yd\u00b2 (180 g/m\u00b2)), US cotton that feels soft to the touch and a great choice for any season. Made using ethically grown and harvested US cotton. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance. Style: The crew neckline along with the tee's classic fit, deliver a timeless style that is perfect for daily use. Tear-away Labels: All t-shirts come with pearlized, tear-away labels for total comfort and a scratch-free experience. Fabric blends: Heather colors - 50% cotton, 50% polyester, Sport Grey - 90% cotton, 10% polyester. XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32",
+                "handle": "kids-heavy-cotton\u2122-tee",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797024027",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_9ff3c074-5894-4cab-b981-85e102dca691.jpg?v=1720528453"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797056795",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_3b44211f-b21d-4805-b557-883a395deabc.jpg?v=1720528453"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797089563",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_7f2fea5d-d57d-49bf-8f84-e0d3a49808c9.jpg?v=1720528453"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797122331",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_f61e9591-8c54-4fc0-a830-3a8bdd5f715e.jpg?v=1720528454"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797155099",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Sport Grey"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/16207718928977510393_2048.jpg?v=1720528454"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797187867",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/9065902623537353088_2048.jpg?v=1720528455"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797220635",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Tennessee Orange"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048.jpg?v=1720528451"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797253403",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_9ff3c074-5894-4cab-b981-85e102dca691.jpg?v=1720528453"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797286171",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_3b44211f-b21d-4805-b557-883a395deabc.jpg?v=1720528453"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117797318939",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/96180693524445212_2048_7f2fea5d-d57d-49bf-8f84-e0d3a49808c9.jpg?v=1720528453"
+                            }
+                        }
+                    ]
+                },
+                "title": "Buddy (Kids) Heavy Cotton\u2122 Tee"
+            },
+            {
+                "description": "Take the cold seasons in style with this premium crew neck sweatshirt. Available in multiple colors, this sweatshirt is sure to keep you warm and stylish all day long. Featuring a 3-end fleece fabric, it has a real tight-knit construction giving it better quality and durability. It\u2019s not only beautiful but also comfy and soft to the touch with the best in its class and under 5% shrinkage. Fabric: 80% cotton, 20% polyester (fabric content varies for different colors)Medium-heavy fabric (8.25 oz /yd\u00b2 (280 g/m\u00b2)) Fit: Regular fit Tear away labelRuns true to size S M L XL 2XL Width, in 20.00 22.01 24.02 25.98 27.99 Length, in 27.01 27.99 28.98 30.00 30.98 Sleeve length, in 25.79 25.98 26.18 26.38 26.57",
+                "handle": "unisex-crewneck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798301979",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18039927138792948218_2048.jpg?v=1720529934"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798334747",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1205421270820284508_2048.jpg?v=1720529934"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798367515",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Heather Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/10571962133214316102_2048.jpg?v=1720529935"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798400283",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/8231393980535974652_2048.jpg?v=1720529932"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798433051",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18039927138792948218_2048.jpg?v=1720529934"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798465819",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1205421270820284508_2048.jpg?v=1720529934"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798498587",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Heather Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/10571962133214316102_2048.jpg?v=1720529935"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798531355",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/8231393980535974652_2048.jpg?v=1720529932"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798564123",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/18039927138792948218_2048.jpg?v=1720529934"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117798596891",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1205421270820284508_2048.jpg?v=1720529934"
+                            }
+                        }
+                    ]
+                },
+                "title": "Buddy (Adults) Unisex Crewneck Sweatshirt"
+            },
+            {
+                "description": "Snuggles introduces the Snuggles garment-dyed t-shirt; a fully customizable tee made 100% with ring-spun cotton. The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice. The double-needle stitching throughout the tee makes it highly durable while the lack of side-seams helps the shirt retain its tubular shape. Key features Fabric: The Snuggles tee is made with medium fabric (6.1 oz/yd\u00b2 (206.8 g/m\u00b2)) consisting of high quality, 100% ring-spun US cotton for long-lasting comfort. Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. Fit: The relaxed fit keeps the wearer comfy in both casual and semi-formal settings while the crew neckline delivers that classic, neat style which makes it perfect for accessorizing. Pre-Shrunk: The pre-shrunk fabric ensures a consistently great fit. Check all available sizes in our Snuggles size chart. S M L XL 2XL 3XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50",
+                "handle": "unisex-garment-dyed-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799121179",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17420742531158050948_2048.jpg?v=1720530202"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799153947",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/10839349624033970429_2048.jpg?v=1720530200"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799186715",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Berry"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/5729663735012478343_2048.jpg?v=1720530203"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799219483",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/16201477196951248910_2048.jpg?v=1720530203"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799252251",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Moss"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/13679041796662153735_2048.jpg?v=1720530203"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799285019",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Watermelon"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/4572463298152019500_2048.jpg?v=1720530204"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799317787",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17420742531158050948_2048.jpg?v=1720530202"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799350555",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/10839349624033970429_2048.jpg?v=1720530200"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799383323",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Berry"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/5729663735012478343_2048.jpg?v=1720530203"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49117799416091",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/16201477196951248910_2048.jpg?v=1720530203"
+                            }
+                        }
+                    ]
+                },
+                "title": "Buddy (Adults) Unisex Garment-Dyed T-shirt"
+            },
+            {
+                "description": "The kids heavy cotton tee is perfect for everyday use. The fabric is 100% cotton for solid colors. Polyester is included for heather-color variants. These fabrics are prime materials for printing. The shoulders have twill tape for improved durability. The collar is curl resistant due to ribbed knitting. There are no seams along the sides. Fabric: Made with 100%, midweight (5.3 oz/yd\u00b2 (180 g/m\u00b2)), US cotton that feels soft to the touch and a great choice for any season. Made using ethically grown and harvested US cotton. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is certified by Oeko-Tex for safety and quality assurance. Style: The crew neckline along with the tee's classic fit, deliver a timeless style that is perfect for daily use. Tear-away Labels: All t-shirts come with pearlized, tear-away labels for total comfort and a scratch-free experience. Fabric blends: Heather colors - 50% cotton, 50% polyester, Sport Grey - 90% cotton, 10% polyester. XS S M L XL Width, in 16.14 16.93 18.11 18.90 20.08 Length, in 20.47 22.05 23.62 25.20 26.38 Sleeve length (from center back), in 13.39 14.17 15.35 16.14 17.32",
+                "handle": "tabby-kids-heavy-cotton\u2122-tee",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150668571",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048_d2797971-d521-4749-a34a-4455aaed95f2.jpg?v=1720537059"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150701339",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048_db391f4d-c099-40c5-890f-3f7f4587a12d.jpg?v=1720537059"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150734107",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048.jpg?v=1720537058"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150766875",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048_d7da9d07-c39d-4429-a602-deba25968481.jpg?v=1720537060"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150799643",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Sport Grey"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17491698085200407006_2048.jpg?v=1720537061"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150832411",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/12109177817394152042_2048.jpg?v=1720537062"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150865179",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "XS"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Tennessee Orange"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048_e62edc18-3eac-42ef-85d5-a9e9238847dd.jpg?v=1720537063"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150897947",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048_d2797971-d521-4749-a34a-4455aaed95f2.jpg?v=1720537059"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150930715",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048_db391f4d-c099-40c5-890f-3f7f4587a12d.jpg?v=1720537059"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126150963483",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                },
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/15374997025034503471_2048.jpg?v=1720537058"
+                            }
+                        }
+                    ]
+                },
+                "title": "Tabby (Kids) Heavy Cotton\u2122 Tee"
+            },
+            {
+                "description": "Take the cold seasons in style with this premium crew neck sweatshirt. Available in multiple colors, this sweatshirt is sure to keep you warm and stylish all day long. Featuring a 3-end fleece fabric, it has a real tight-knit construction giving it better quality and durability. It\u2019s not only beautiful but also comfy and soft to the touch with the best in its class and under 5% shrinkage. Fabric: 80% cotton, 20% polyester (fabric content varies for different colors)Medium-heavy fabric (8.25 oz /yd\u00b2 (280 g/m\u00b2)) Fit: Regular fit Tear away labelRuns true to size S M L XL 2XL Width, in 20.00 22.01 24.02 25.98 27.99 Length, in 27.01 27.99 28.98 30.00 30.98 Sleeve length, in 25.79 25.98 26.18 26.38 26.57",
+                "handle": "tabby-adults-unisex-crewneck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153715995",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/712717602730723288_2048.jpg?v=1720536771"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153748763",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1973657024138323166_2048.jpg?v=1720536795"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153781531",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Heather Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/2331125318314518550_2048.jpg?v=1720536747"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153814299",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/16651786257520465502_2048.jpg?v=1720536802"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153847067",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/712717602730723288_2048.jpg?v=1720536771"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153879835",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1973657024138323166_2048.jpg?v=1720536795"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153912603",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Heather Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/2331125318314518550_2048.jpg?v=1720536747"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153945371",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Navy"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/16651786257520465502_2048.jpg?v=1720536802"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126153978139",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/712717602730723288_2048.jpg?v=1720536771"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126154010907",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Charcoal Heather"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "L"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/1973657024138323166_2048.jpg?v=1720536795"
+                            }
+                        }
+                    ]
+                },
+                "title": "Tabby (Adults) Unisex Crewneck Sweatshirt"
+            },
+            {
+                "description": "Snuggles introduces the Snuggles garment-dyed t-shirt; a fully customizable tee made 100% with ring-spun cotton. The soft-washed, garment-dyed fabric brings extra coziness to your wardrobe while the relaxed fit makes it an excellent daily choice. The double-needle stitching throughout the tee makes it highly durable while the lack of side-seams helps the shirt retain its tubular shape. Key features Fabric: The Snuggles tee is made with medium fabric (6.1 oz/yd\u00b2 (206.8 g/m\u00b2)) consisting of high quality, 100% ring-spun US cotton for long-lasting comfort. Made using 100% US cotton that is ethically grown and harvested. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. Fit: The relaxed fit keeps the wearer comfy in both casual and semi-formal settings while the crew neckline delivers that classic, neat style which makes it perfect for accessorizing. Pre-Shrunk: The pre-shrunk fabric ensures a consistently great fit. Check all available sizes in our Snuggles size chart. S M L XL 2XL 3XL Width, in 18.25 20.25 22.00 24.00 26.00 27.75 Length, in 26.62 28.00 29.37 30.75 31.62 32.50 Sleeve length from center back, in 16.25 17.75 19.00 20.50 21.75 23.25 Size tolerance, in 1.50 1.50 1.50 1.50 1.50 1.50",
+                "handle": "tabby-adults-unisex-garment-dyed-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155419931",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/13981739764983099976_2048.jpg?v=1720543697"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155452699",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/4737254985992545718_2048.jpg?v=1720543699"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155485467",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Berry"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/4435437041566587397_2048.jpg?v=1720543699"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155518235",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17398238036297717781_2048.jpg?v=1720543697"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155551003",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Moss"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/10142750776570186899_2048.jpg?v=1720543699"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155583771",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Watermelon"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "S"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/9058767514995159365_2048.jpg?v=1720543700"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155616539",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/13981739764983099976_2048.jpg?v=1720543697"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155649307",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/4737254985992545718_2048.jpg?v=1720543699"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155682075",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Berry"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/4435437041566587397_2048.jpg?v=1720543699"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49126155714843",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "M"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0888/0422/9403/files/17398238036297717781_2048.jpg?v=1720543697"
+                            }
+                        }
+                    ]
+                },
+                "title": "Tabby (Adults) Unisex Garment-Dyed T-shirt"
+            }
+        ]
+    },
+    "chosen_store_name": "Snuggled",
+    "storeDescription": "Together in Threads",
+    "character": "Sakura",
+    "plan": "Free",
+    "faq": {
+        "q_list": {
+            "q-0": [
+                "What is the price range for your shirts?",
+                "Can you tell me the cost of your shirts?",
+                "How much do your shirts cost?",
+                "What is the price of your shirts?",
+                "Could you provide information on the price of your shirts?",
+                "How costly are your shirts?",
+                "What is the expense of your shirts?",
+                "What is the price tag on your shirts?",
+                "How much do I need to pay for your shirts?",
+                "What are the prices like for your shirts?",
+                "What is the pricing for your shirts?",
+                "Can you give me an idea of the price for your shirts?",
+                "How much will I need to spend on your shirts?",
+                "What is the cost of purchasing your shirts?",
+                "How much should I budget for your shirts?",
+                "What are the prices for your shirts?",
+                "What is the amount I must pay for your shirts?",
+                "Could you let me know the prices of your shirts?",
+                "How much money do I need for your shirts?",
+                "What will your shirts set me back by?"
+            ],
+            "q-1": [
+                "What is the reason behind the name Snuggled?",
+                "Can you explain the origin of the term Snuggled?",
+                "Why did you choose to name it Snuggled?",
+                "What is the story behind the name Snuggled?",
+                "Could you provide some insight into the naming of Snuggled?",
+                "What prompted the choice of the name Snuggled?",
+                "How did Snuggled get its name?",
+                "What is the significance of the name Snuggled?",
+                "Can you shed light on the naming of Snuggled?",
+                "Why was the decision made to name it Snuggled?",
+                "What inspired the name Snuggled?",
+                "What led to the selection of the name Snuggled?",
+                "Why was Snuggled named as such?",
+                "What is the thought process behind naming it Snuggled?",
+                "How did Snuggled end up with its name?",
+                "What is the meaning behind the name Snuggled?",
+                "Why is it named Snuggled?",
+                "What is the idea behind naming it Snuggled?",
+                "What was the motivation for naming it Snuggled?",
+                "Why was the name Snuggled chosen?"
+            ],
+            "q-2": [
+                "What is meant by avatars?",
+                "Can you explain the concept of avatars?",
+                "What do you understand by avatars?",
+                "Could you define avatars?",
+                "What exactly are avatars?",
+                "How would you describe avatars?",
+                "What is the definition of avatars?",
+                "What is the significance of avatars?",
+                "Can you clarify the meaning of avatars?",
+                "What is the interpretation of avatars?",
+                "Can you give an explanation of avatars?",
+                "How are avatars defined?",
+                "What are avatars in your explanation?",
+                "Why are avatars important?",
+                "What role do avatars play?",
+                "How are avatars characterized?",
+                "What is the essence of avatars?",
+                "What are the implications of avatars?",
+                "Could you elaborate on the concept of avatars?",
+                "What do avatars represent?"
+            ]
+        },
+        "a_list": [
+            {
+                "q-0": "They are very expensive, they are not meant for cheap people. Are you a cheap person?"
+            },
+            {
+                "q-1": "Its our right to name it whatever we want. Why were you named what you ae named?"
+            },
+            {
+                "q-2": "They are different characters we have created for kids and adults alike!"
+            }
+        ]
+    },
+    "retrain": false,
+    "initial_count": 1
+}
