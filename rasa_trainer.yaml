@@ -1,7 +1,11 @@
 apiVersion: kubeflow.org/v1
 kind: TFJob
 metadata:
+<<<<<<< HEAD
   name: rasa-tfjob-exarta-123-0
+=======
+  name: rasa-tfjob-exarta-123-1
+>>>>>>> c2bf72f (First commit)
   namespace: tenant-7654b5-asrpods
 spec:
   tfReplicaSpecs:
@@ -24,9 +28,15 @@ spec:
                     - A100_PCIE_40GB
           containers:
           - args:
+<<<<<<< HEAD
             - pwd && curl https://zeniva-shopify-ord1.object.ord1.coreweave.com/shopify/models/data-exarta-123-0.json
               --output data-exarta-123-0.json && ls && cd / && ls && python test.py
               /app/data-exarta-123-0.json && ls
+=======
+            - pwd && curl https://zeniva-shopify-ord1.object.ord1.coreweave.com/shopify/models/data-exarta-123-1.json
+              --output data-exarta-123-1.json && ls && cd / && ls && python test.py
+              /app/data-exarta-123-1.json && ls
+>>>>>>> c2bf72f (First commit)
             command:
             - /bin/sh
             - -c

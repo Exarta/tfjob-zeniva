@@ -1,0 +1,2359 @@
+{
+    "data": {
+        "collections": {
+            "nodes": [
+                {
+                    "handle": "winter-collection",
+                    "title": "Winter Collection",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Black"
+                                    },
+                                    {
+                                        "label": "Brown"
+                                    },
+                                    {
+                                        "label": "Grey"
+                                    },
+                                    {
+                                        "label": "Maroon"
+                                    },
+                                    {
+                                        "label": "Off White"
+                                    },
+                                    {
+                                        "label": "Pink"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.material",
+                                "values": [
+                                    {
+                                        "label": "Cotton"
+                                    },
+                                    {
+                                        "label": "Fleece"
+                                    },
+                                    {
+                                        "label": "Polymer"
+                                    },
+                                    {
+                                        "label": "Wool"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Extra Small"
+                                    },
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    },
+                                    {
+                                        "label": "Extra Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Causal"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Fancy"
+                                    },
+                                    {
+                                        "label": "fashion"
+                                    },
+                                    {
+                                        "label": "formal"
+                                    },
+                                    {
+                                        "label": "Semiformal"
+                                    },
+                                    {
+                                        "label": "Street Style"
+                                    },
+                                    {
+                                        "label": "stylish"
+                                    },
+                                    {
+                                        "label": "Swaggy"
+                                    },
+                                    {
+                                        "label": "Trendy"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.product_type",
+                                "values": [
+                                    {
+                                        "label": "Sweatshirts + Hoodies"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo3NzkyODM0MTE3ODAxLCJsYXN0X3ZhbHVlIjoiTW9jayBOZWNrIFN3ZWF0c2hpcnQifQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "summer-collection",
+                    "title": "Summer Collection",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.color",
+                                "values": [
+                                    {
+                                        "label": "Black"
+                                    },
+                                    {
+                                        "label": "Blue"
+                                    },
+                                    {
+                                        "label": "Dark Beige"
+                                    },
+                                    {
+                                        "label": "Green"
+                                    },
+                                    {
+                                        "label": "Light Green"
+                                    },
+                                    {
+                                        "label": "Purple"
+                                    },
+                                    {
+                                        "label": "Red"
+                                    },
+                                    {
+                                        "label": "White"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.material",
+                                "values": [
+                                    {
+                                        "label": "Cotton"
+                                    },
+                                    {
+                                        "label": "Garbardine Fabric"
+                                    },
+                                    {
+                                        "label": "Jeans"
+                                    },
+                                    {
+                                        "label": "Nylon"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.size",
+                                "values": [
+                                    {
+                                        "label": "Extra Small"
+                                    },
+                                    {
+                                        "label": "Extra small"
+                                    },
+                                    {
+                                        "label": "Small"
+                                    },
+                                    {
+                                        "label": "Medium"
+                                    },
+                                    {
+                                        "label": "Large"
+                                    },
+                                    {
+                                        "label": "Extra Large"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.option.style",
+                                "values": [
+                                    {
+                                        "label": "Cropped"
+                                    },
+                                    {
+                                        "label": "Oversized"
+                                    },
+                                    {
+                                        "label": "Oxford"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.tag",
+                                "values": [
+                                    {
+                                        "label": "Causal"
+                                    },
+                                    {
+                                        "label": "Classy"
+                                    },
+                                    {
+                                        "label": "Comfortable"
+                                    },
+                                    {
+                                        "label": "Expensive"
+                                    },
+                                    {
+                                        "label": "fashion"
+                                    },
+                                    {
+                                        "label": "fit"
+                                    },
+                                    {
+                                        "label": "formal"
+                                    },
+                                    {
+                                        "label": "informal"
+                                    },
+                                    {
+                                        "label": "Semiformal"
+                                    },
+                                    {
+                                        "label": "slim"
+                                    },
+                                    {
+                                        "label": "Street Style"
+                                    },
+                                    {
+                                        "label": "stylish"
+                                    },
+                                    {
+                                        "label": "Swaggy"
+                                    },
+                                    {
+                                        "label": "Trendy"
+                                    },
+                                    {
+                                        "label": "Winter"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "LIST",
+                                "id": "filter.p.product_type",
+                                "values": [
+                                    {
+                                        "label": "Shirt"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": true,
+                            "endCursor": "eyJsYXN0X2lkIjo3NzkzMjY3MDQ4NjE3LCJsYXN0X3ZhbHVlIjoiT1ZFUlNJWkVEIFNISVJUIFdJVEggVE9QU1RJVENISU5HIn0="
+                        }
+                    }
+                }
+            ]
+        },
+        "pages": {
+            "nodes": [
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                },
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                }
+            ]
+        },
+        "shop": {
+            "name": "safa-testing",
+            "id": "gid://shopify/Shop/123"
+        },
+        "products": [
+            {
+                "description": "A timeless design, straight from the archive. Designed with a retro-inspired embroidered archive logo, this crewneck sweatshirt features a plush cotton knit fleece blend for premium, all-day comfort. Cut in a relaxed fit with fine ribbed knit trim.",
+                "handle": "fleece-crewneck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262215880873",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceCrewneckSweatshirt.png?v=1696850908"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fleece Crewneck sweatshirt"
+            },
+            {
+                "description": "Crafted from soft cotton blend fleece, this crewneck sweatshirt offers exceptional comfort with added warmth. Styled with long sleeves and designed with drop shoulders for a relaxed fit. Finished with archive-inspired logo embroidery at the upper chest.",
+                "handle": "copy-of-fleece-crewneck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262217158825",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceCroppedSweatshirt.png?v=1696850842"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fleece Cropped Sweatshirt"
+            },
+            {
+                "description": "Crafted from an extra soft cotton blend fleece, this sweatshirt offers a cozy feel. Designed with a quarter-zip closure and a mockneck. Features ribbed texture at the collar, cuffs, and hem. Styled with a kangaroo pocket at the front and finished with a CK monogram logo at the chest.",
+                "handle": "copy-of-copy-of-fleece-cropped-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262219944105",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceQuarterZipSweatshirt.png?v=1696850710"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267328442537",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceQuarterZipSweatshirt.png?v=1696850710"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267328475305",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceQuarterZipSweatshirt.png?v=1696850710"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fleece Quarter Zip Sweatshirt"
+            },
+            {
+                "description": "Styled in an oversized silhouette, this crewneck sweatshirt is made with drop shoulders for a relaxed fit. Crafted from a cotton fleece blend for soft, plush comfort. Detailed with banded cuffs at the sleeve openings and features a CK monogram logo design at the front.",
+                "handle": "relaxed-crewneck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262336434345",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/RelaxedCrewneckSweatshirt.png?v=1696850230"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267335913641",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/RelaxedCrewneckSweatshirt.png?v=1696850230"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267335946409",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/RelaxedCrewneckSweatshirt.png?v=1696850230"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267335979177",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/RelaxedCrewneckSweatshirt.png?v=1696850230"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267336011945",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/RelaxedCrewneckSweatshirt.png?v=1696850230"
+                            }
+                        }
+                    ]
+                },
+                "title": "Relaxed Crewneck Sweatshirt"
+            },
+            {
+                "description": "A timeless design, straight from the archive. Designed with a retro-inspired embroidered archive logo, this hoodie sweatshirt features a plush cotton knit fleece blend for premium, all-day comfort. Cut in a relaxed fit with a fine ribbed knit trim.",
+                "handle": "fleece-hoodie",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262218469545",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceHoodie.png?v=1696851294"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267327754409",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceHoodie.png?v=1696851294"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267327787177",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FleeceHoodie.png?v=1696851294"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fleece Hoodie"
+            },
+            {
+                "description": "Crafted from an extra soft cotton blend fleece, this sweatshirt offers a cozy feel. Designed with a quarter-zip closure and a mockneck. Features ribbed texture at the collar, cuffs, and hem. Styled with a kangaroo pocket at the front and finished with a CK monogram logo at the chest.",
+                "handle": "quarter-zip-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262335123625",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Pink"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/QuarterZipSweatshirt.png?v=1696850370"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267335291049",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Pink"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/QuarterZipSweatshirt.png?v=1696850370"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267335323817",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Pink"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Fleece"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/QuarterZipSweatshirt.png?v=1696850370"
+                            }
+                        }
+                    ]
+                },
+                "title": "Quarter Zip Sweatshirt"
+            },
+            {
+                "description": "Crafted from a cotton and recycled polyester blend, this sweatshirt is made with reduced environmental impact and soft comfort in mind. Designed with long sleeves and a mock neck. Cut with a boxy fit for a slightly oversized silhouette.",
+                "handle": "mock-neck-sweatshirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262245109929",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/MockNeckSweatshirt.png?v=1696850584"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332014249",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/MockNeckSweatshirt.png?v=1696850584"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332047017",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/MockNeckSweatshirt.png?v=1696850584"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332079785",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/MockNeckSweatshirt.png?v=1696850584"
+                            }
+                        }
+                    ]
+                },
+                "title": "Mock Neck Sweatshirt"
+            },
+            {
+                "description": "Shaped in a boxy silhouette, this hoodie is designed with logo tape styling along the upper sleeves and a zip closure along the front. Made with ribbed detailing at the cuffs and hem. Crafted from a recycled polyester blend for reduced environmental impact.",
+                "handle": "open-zip-hoodie",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262309793961",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OpenZipHoodie.png?v=1696851171"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332374697",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OpenZipHoodie.png?v=1696851171"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332407465",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OpenZipHoodie.png?v=1696851171"
+                            }
+                        }
+                    ]
+                },
+                "title": "Open Zip Hoodie"
+            },
+            {
+                "description": "A modern cotton zip hoodie crafted with cotton stretch fabric, classic logo styling and ribbed knit detailing for a youthful, sporty design.",
+                "handle": "modern-cotton-stretch-zip-sleep-hoodie",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262286954665",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Cotton"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ModernCottonStretchZipSleepHoodie.png?v=1696851091"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332145321",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Cotton"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ModernCottonStretchZipSleepHoodie.png?v=1696851091"
+                            }
+                        }
+                    ]
+                },
+                "title": "Modern Cotton Stretch Zip Sleep Hoodie"
+            },
+            {
+                "description": "Crafted from a fine merino wool blend, this sweater is designed with a lightweight construction featuring a soft, refined touch. Made with long sleeves and a polo collar. Finished with ribbed detailing at the hem and the sleeve cuffs.",
+                "handle": "extra-fine-black-sweater",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262208934057",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Polymer"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ExtraFineBlackSweater.png?v=1696849534"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267325198505",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Polymer"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ExtraFineBlackSweater.png?v=1696849534"
+                            }
+                        }
+                    ]
+                },
+                "title": "Extra Fine Black Sweater"
+            },
+            {
+                "description": "Crafted from a fine merino wool blend, this sweater is designed with a lightweight construction featuring a soft, refined touch. Made with long sleeves and a polo collar. Finished with ribbed detailing at the hem and the sleeve cuffs.",
+                "handle": "extra-fine-maroon-sweater",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262211293353",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Maroon"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ExtraFineMaroonSweater.png?v=1696849219"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267326312617",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Maroon"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ExtraFineMaroonSweater.png?v=1696849219"
+                            }
+                        }
+                    ]
+                },
+                "title": "Extra Fine Maroon Sweater"
+            },
+            {
+                "description": "Crafted from a fine merino wool blend, this sweater is designed with a lightweight construction featuring a soft, refined touch. Made with long sleeves and a crewneck. Finished with ribbed detailing along the sleeve cuffs and hem.",
+                "handle": "extra-fine-beige-sweater",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262210146473",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Brown"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ExtraFineCrewneckSweater.png?v=1696849407"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267325722793",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Brown"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/ExtraFineCrewneckSweater.png?v=1696849407"
+                            }
+                        }
+                    ]
+                },
+                "title": "Extra Fine Crewneck Sweater"
+            },
+            {
+                "description": "Crafted from a fine merino wool blend, this sweater is designed with a lightweight construction featuring a soft, refined touch. Made with long sleeves and a crewneck. Finished with ribbed detailing along the sleeve cuffs and hem.",
+                "handle": "crewneck-black-sweater",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262192124073",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CrewneckBlackSweater.png?v=1696849961"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267320643753",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CrewneckBlackSweater.png?v=1696849961"
+                            }
+                        }
+                    ]
+                },
+                "title": "Crewneck Black Sweater"
+            },
+            {
+                "description": "An updated take on the classic cable knit sweater, this top is designed with a cropped length. Made with long sleeves and a crewneck. Detailed with wide ribbed styling for added dimension and texture.",
+                "handle": "cropped-cable-knit-crewneck-sweater",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262193533097",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CroppedCableKnitCrewneckSweater.png?v=1696849698"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267321135273",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Off White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Wool"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CroppedCableKnitCrewneckSweater.png?v=1696849698"
+                            }
+                        }
+                    ]
+                },
+                "title": "Cropped Cable Knit Crewneck Sweater"
+            },
+            {
+                "description": "SLIM FIT - ROUND NECK - NORMAL LENGTH - SHORT SLEEVESRound neck T-shirt with short sleeves.",
+                "handle": "fitted-faded-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262214209705",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FITTEDFADEDT-SHIRT.png?v=1696853686"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267326935209",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FITTEDFADEDT-SHIRT.png?v=1696853686"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267326967977",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Purple"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FITTEDFADEDT-SHIRT.png?v=1696853686"
+                            }
+                        }
+                    ]
+                },
+                "title": "FITTED FADED T-SHIRT"
+            },
+            {
+                "description": "SLIM FIT - ROUND NECK - SHORT - LONG SLEEVESRound neck long sleeve T-shirt made of a polyamide blend fabric.",
+                "handle": "cropped-polyamide-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262206509225",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CROPPEDPOLYAMIDET-SHIRT.png?v=1696853819"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267322544297",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Red"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CROPPEDPOLYAMIDET-SHIRT.png?v=1696853819"
+                            }
+                        }
+                    ]
+                },
+                "title": "CROPPED POLYAMIDE T-SHIRT"
+            },
+            {
+                "description": "SLIM FIT - ROUND NECKLINE - SHORT - LONG SLEEVEST-shirt made of a cotton and modal blend fabric. Round neckline and long sleeves.",
+                "handle": "cotton-and-modal-cropped-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262190026921",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Dark Beige"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Cotton"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/COTTONANDMODALCROPPEDT-SHIRT.png?v=1696854057"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43262692098217",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Dark Beige"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Cotton"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/COTTONANDMODALCROPPEDT-SHIRT.png?v=1696854057"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43262692130985",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Dark Beige"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Cotton"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/COTTONANDMODALCROPPEDT-SHIRT.png?v=1696854057"
+                            }
+                        }
+                    ]
+                },
+                "title": "COTTON AND MODAL CROPPED T-SHIRT"
+            },
+            {
+                "description": "SLIM FIT - MOCK NECK - NORMAL LENGTH - 3/4 SLEEVEST-shirt made of a cotton blend. Mock neck and 3/4 sleeves.",
+                "handle": "cotton-mock-neck-t-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262191108265",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/COTTONMOCKNECKT-SHIRT.png?v=1696853931"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43262700028073",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/COTTONMOCKNECKT-SHIRT.png?v=1696853931"
+                            }
+                        }
+                    ]
+                },
+                "title": "COTTON MOCK NECK T-SHIRT"
+            },
+            {
+                "description": "Blouse featuring a beaded round neck and long wide sleeves. Lining and a buttoned opening at the back",
+                "handle": "blouse-with-pleated-sleeves",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262181114025",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/BLOUSEWITHPLEATEDSLEEVES.png?v=1696918280"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43262556209321",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/BLOUSEWITHPLEATEDSLEEVES.png?v=1696918280"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43262556242089",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/BLOUSEWITHPLEATEDSLEEVES.png?v=1696918280"
+                            }
+                        }
+                    ]
+                },
+                "title": "BLOUSE WITH PLEATED SLEEVES"
+            },
+            {
+                "description": "Collared shirt with long sleeves. Front patch pockets with flaps. Button-up front hidden by a placket.",
+                "handle": "oxford-shirt-with-pockets",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262323032233",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Small"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Oxford"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OXFORDSHIRTWITHPOCKETS.png?v=1696852904"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267333750953",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Oxford"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OXFORDSHIRTWITHPOCKETS.png?v=1696852904"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267333783721",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Oxford"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OXFORDSHIRTWITHPOCKETS.png?v=1696852904"
+                            }
+                        }
+                    ]
+                },
+                "title": "OXFORD SHIRT WITH POCKETS"
+            },
+            {
+                "description": "Cropped collar shirt featuring long sleeves with cuffs. Fabric with contrast patches. Chest pocket. Snap-button fastening hidden by a placket.",
+                "handle": "cropped-patchwork-nylon-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262199922857",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Green"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Nylon"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Cropped"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CROPPEDPATCHWORKNYLONSHIRT.png?v=1696853424"
+                            }
+                        }
+                    ]
+                },
+                "title": "CROPPED PATCHWORK NYLON SHIRT"
+            },
+            {
+                "description": "Collared shirt made of gabardine-type fabric. Featuring long cuffed sleeves and patch pockets on the front. Button-up front fastening.",
+                "handle": "gabardine-fabric-cropped-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262235607209",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Light Green"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Garbardine Fabric"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/GABARDINEFABRICCROPPEDSHIRT.png?v=1696853214"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267328639145",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Light Green"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Garbardine Fabric"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/GABARDINEFABRICCROPPEDSHIRT.png?v=1696853214"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267328671913",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Light Green"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Garbardine Fabric"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/GABARDINEFABRICCROPPEDSHIRT.png?v=1696853214"
+                            }
+                        }
+                    ]
+                },
+                "title": "GABARDINE FABRIC CROPPED SHIRT"
+            },
+            {
+                "description": "Oversize collared shirt made of gabardine fabric. Long sleeves with double cuffs. Asymmetric pocket on the front. Contrast topstitching detail. Button-up front.",
+                "handle": "oversized-shirt-with-topstitching",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262322409641",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDSHIRTWITHTOPSTITCHING.png?v=1696853022"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267333521577",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDSHIRTWITHTOPSTITCHING.png?v=1696853022"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267333554345",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDSHIRTWITHTOPSTITCHING.png?v=1696853022"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267333587113",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDSHIRTWITHTOPSTITCHING.png?v=1696853022"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267333619881",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "White"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDSHIRTWITHTOPSTITCHING.png?v=1696853022"
+                            }
+                        }
+                    ]
+                },
+                "title": "OVERSIZED SHIRT WITH TOPSTITCHING"
+            },
+            {
+                "description": "Loose-fitting collared shirt with long cuffed sleeves. Frayed trims and a button-up front.",
+                "handle": "oversized-poplin-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262311956649",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Small"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Oversized"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDPOPLINSHIRT.png?v=1696853122"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332571305",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Large"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Oversized"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDPOPLINSHIRT.png?v=1696853122"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267332604073",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Oversized"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/OVERSIZEDPOPLINSHIRT.png?v=1696853122"
+                            }
+                        }
+                    ]
+                },
+                "title": "OVERSIZED POPLIN SHIRT"
+            },
+            {
+                "description": "Collared shirt with long sleeves. Metallic thread detail. Button-up front.",
+                "handle": "printed-shirt-with-metallic-thread",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262328111273",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "Extra Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/PRINTEDSHIRTWITHMETALLICTHREAD.png?v=1696852793"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267335192745",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/PRINTEDSHIRTWITHMETALLICTHREAD.png?v=1696852793"
+                            }
+                        }
+                    ]
+                },
+                "title": "PRINTED SHIRT WITH METALLIC THREAD"
+            },
+            {
+                "description": "Collared shirt with long sleeves. Front patch pockets with flaps. Front fastening with metal buttons.",
+                "handle": "denim-shirt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262207918249",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Blue"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Jeans"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/DENIMSHIRT.png?v=1696854402"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/43267325100201",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Blue"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Jeans"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Large"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/DENIMSHIRT.png?v=1696854402"
+                            }
+                        }
+                    ]
+                },
+                "title": "DENIM SHIRT"
+            },
+            {
+                "description": "Long cord necklace with a metallic pendant in the shape of a raised rose.",
+                "handle": "pink-cord-necklace",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262325588137",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Pink"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Metal"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/PINKCORDNECKLACE.png?v=1696855654"
+                            }
+                        }
+                    ]
+                },
+                "title": "PINK CORD NECKLACE"
+            },
+            {
+                "description": "Leather bracelet with contrast metal mesh. Leather loops and metal buckle..",
+                "handle": "leather-metal-mesh-bracelet",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262242357417",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Silver"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Metal"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Regular"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/LEATHERMETALMESHBRACELET.png?v=1696855207"
+                            }
+                        }
+                    ]
+                },
+                "title": "LEATHER METAL MESH BRACELET"
+            },
+            {
+                "description": "Maxi necklace with beads. Lobster clasp fastening.",
+                "handle": "maxi-beaded-necklace",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262243930281",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Brown"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Thread"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/MAXIBEADEDNECKLACE.png?v=1696855816"
+                            }
+                        }
+                    ]
+                },
+                "title": "MAXI BEADED NECKLACE"
+            },
+            {
+                "description": "Pack of rigid metal bracelets.",
+                "handle": "pack-of-rigid-bracelets",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262323884201",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Golden"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Gold"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/PACKOFRIGIDBRACELETS.png?v=1696855523"
+                            }
+                        }
+                    ]
+                },
+                "title": "PACK OF RIGID BRACELETS"
+            },
+            {
+                "description": "Metal link necklace. Lobster clasp fastening.",
+                "handle": "chain-link-necklace",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262182064297",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Golden"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Gold"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CHAINLINKNECKLACE.png?v=1696856339"
+                            }
+                        }
+                    ]
+                },
+                "title": "CHAIN LINK NECKLACE"
+            },
+            {
+                "description": "Metal necklace with interwoven chain. Lobster clasp fastening.",
+                "handle": "interwoven-chain-necklace",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262236983465",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Silver"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Metal"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Regular"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/INTERWOVENCHAINNECKLACE.png?v=1696856159"
+                            }
+                        }
+                    ]
+                },
+                "title": "INTERWOVEN CHAIN NECKLACE"
+            },
+            {
+                "description": "Metal necklace with links and rigid piece. Horn-shaped pendant. Lobster clasp fastening.",
+                "handle": "chain-necklace-with-horn",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262184292521",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Silver"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/CHAINNECKLACEWITHHORN.png?v=1696856268"
+                            }
+                        }
+                    ]
+                },
+                "title": "CHAIN NECKLACE WITH HORN"
+            },
+            {
+                "description": "Long cord necklace with a textured round metal pendant. Adjustable knots.",
+                "handle": "long-metal-circle-cord-necklace",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262243176617",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Golden"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Gold"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/LONGMETALCIRCLECORDNECKLACE.png?v=1696855939"
+                            }
+                        }
+                    ]
+                },
+                "title": "LONG METAL CIRCLE CORD NECKLACE"
+            },
+            {
+                "description": "Belt made of leather with combined metal mesh. 6.1 cm / 2.4\u2033 wide. Leather loops and metal buckle.",
+                "handle": "leather-metal-mesh-belt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262240882857",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Formal"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Leather"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/LEATHERMETALMESHBELT.png?v=1696917812"
+                            }
+                        }
+                    ]
+                },
+                "title": "LEATHER METAL MESH BELT"
+            },
+            {
+                "description": "Belt made of leather. 3 cm / 1.1\u2033 wide. Oval metal buckle.",
+                "handle": "leather-animal-print-belt",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262239342761",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Brown"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Leather"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/LEATHERANIMALPRINTBELT.png?v=1696917950"
+                            }
+                        }
+                    ]
+                },
+                "title": "LEATHER ANIMAL PRINT BELT"
+            },
+            {
+                "description": "Felt mini city bag. Handles and detachable crossbody strap. Zip closure.",
+                "handle": "felt-mini-city-bag",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262212145321",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Grey"
+                                },
+                                {
+                                    "name": "Size",
+                                    "value": "Regular"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Rexine"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/FELTMINICITYBAG.png?v=1696857184"
+                            }
+                        }
+                    ]
+                },
+                "title": "FELT MINI CITY BAG"
+            },
+            {
+                "description": "Fabric tote bag. Strap details on the front. Lined interior. Shoulder straps. Zip closure.",
+                "handle": "nylon-tote-bag",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43262307762345",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Nylon"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/NYLONTOTEBAG.png?v=1696856978"
+                            }
+                        }
+                    ]
+                },
+                "title": "NYLON TOTE BAG"
+            },
+            {
+                "description": "Fabric belt bag. Adjustable strap. Front zip pockets. Zip closure.",
+                "handle": "belt-bag-with-pockets",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/43261970055337",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                },
+                                {
+                                    "name": "Material",
+                                    "value": "Rexine"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/BELTBAGWITHPOCKETS.png?v=1696857319"
+                            }
+                        }
+                    ]
+                },
+                "title": "BELT BAG WITH POCKETS"
+            },
+            {
+                "description": "This item is excluded from all promotions. This item is excluded from the Hero and Student discount.",
+                "handle": "club-c-85-vintage-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44301061456041",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/4.png?v=1717756797"
+                            }
+                        }
+                    ]
+                },
+                "title": "Club C 85 Vintage Shoes"
+            },
+            {
+                "description": "",
+                "handle": "reebok-flexagon",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44301071810729",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/1.png?v=1717756906"
+                            }
+                        }
+                    ]
+                },
+                "title": "REEBOK FLEXAGON"
+            },
+            {
+                "description": "This item is excluded from all promotions. This item is excluded from the Hero and Student discount.",
+                "handle": "pride-nano-x4-training-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316302606505",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/4_ce941a8c-5cc6-4f3e-a5c2-850ef63f1ae5.png?v=1718002191"
+                            }
+                        }
+                    ]
+                },
+                "title": "Pride Nano X4 Training Shoes"
+            },
+            {
+                "description": "This item is excluded from all promotions. This item is excluded from the Hero and Student discount.",
+                "handle": "reebok-x-needles-beatnik-slides",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316306833577",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/2.png?v=1718002394"
+                            }
+                        }
+                    ]
+                },
+                "title": "Reebok X Needles Beatnik Slides"
+            },
+            {
+                "description": "This item is excluded from all promotions. This item is excluded from the Hero and Student discount.",
+                "handle": "floatzig-symmetros-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316308471977",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/7.png?v=1718002470"
+                            }
+                        }
+                    ]
+                },
+                "title": "FloatZig Symmetros Shoes"
+            },
+            {
+                "description": "",
+                "handle": "fluxlite-training-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316309225641",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/8.png?v=1718002508"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fluxlite Training Shoes"
+            },
+            {
+                "description": "",
+                "handle": "phase-court-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316310241449",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/3.png?v=1718002540"
+                            }
+                        }
+                    ]
+                },
+                "title": "Phase Court Shoes"
+            },
+            {
+                "description": "Footwear White / Black / Unleashed Green This item is excluded from all promotions.",
+                "handle": "nanoflex-tr-2-0-training-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316311388329",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/w2.png?v=1718002613"
+                            }
+                        }
+                    ]
+                },
+                "title": "NanoFlex TR 2.0 Training Shoes"
+            },
+            {
+                "description": "This item is excluded from all promotions.",
+                "handle": "nano-x4-training-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316312109225",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/w4.png?v=1718002653"
+                            }
+                        }
+                    ]
+                },
+                "title": "Nano X4 Training Shoes"
+            },
+            {
+                "description": "Soft Blue / Moon / Footwear White",
+                "handle": "flexagon-energy-4-training-shoes",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316312731817",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/w6.png?v=1718002684"
+                            }
+                        }
+                    ]
+                },
+                "title": "Flexagon Energy 4 Training Shoes"
+            },
+            {
+                "description": "Barely Grey/Team Teal/Footwear White This item is excluded from all promotions.",
+                "handle": "nanoflex-tr-2-0-training-shoes-1",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/44316313452713",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0631/8043/9721/files/w3.png?v=1718002726"
+                            }
+                        }
+                    ]
+                },
+                "title": "NanoFlex TR 2.0 Training Shoes"
+            }
+        ]
+    },
+    "chosen_store_name": "GRACE ",
+    "storeDescription": "shop with us",
+    "character": "Sophie",
+    "plan": "Small Business",
+    "retrain": true,
+    "initial_count": 2
+}
