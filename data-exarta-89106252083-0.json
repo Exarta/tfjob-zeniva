@@ -1,0 +1,1117 @@
+{
+    "data": {
+        "collections": {
+            "nodes": [
+                {
+                    "handle": "mobile-accessories",
+                    "title": "Mobile Accessories",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc5MDUzNjE5LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "phone-cases",
+                    "title": "Phone Cases",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc5NTEyMzcxLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "chargers-cables",
+                    "title": "Chargers & Cables",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc5MDUzNjE5LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "audio-essentials",
+                    "title": "Audio Essentials",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc3Njc3MzYzLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "bluetooth-speakers",
+                    "title": "Bluetooth Speakers",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc4NjI3NjM1LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "headphones",
+                    "title": "Headphones",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc4MTM2MTE1LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "earbuds",
+                    "title": "Earbuds",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc3Njc3MzYzLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "wearable-tech",
+                    "title": "Wearable Tech",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc2ODU4MTYzLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "smartwatches",
+                    "title": "Smartwatches",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc3MjE4NjExLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "fitness-trackers",
+                    "title": "Fitness Trackers",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "In stock"
+                                    },
+                                    {
+                                        "label": "Out of stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NDIwNjc2ODU4MTYzLCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                },
+                {
+                    "handle": "just-for-testing",
+                    "title": "just for testing",
+                    "products": {
+                        "filters": [],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": null
+                        }
+                    }
+                }
+            ]
+        },
+        "pages": {
+            "nodes": [
+                {
+                    "title": "Home",
+                    "handle": "home"
+                },
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                },
+                {
+                    "title": "About Us",
+                    "handle": "about-us"
+                },
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                },
+                {
+                    "title": "About Us",
+                    "handle": "about-us"
+                }
+            ]
+        },
+        "shop": {
+            "name": "NextGenz Gadgets",
+            "id": "gid://shopify/Shop/89106252083"
+        },
+        "products": [
+            {
+                "description": "Elevate your fitness journey with our sleek Fitness Tracker! Monitor heart rate, steps, and sleep patterns with ease. Waterproof, durable, and stylish, it's your ultimate workout companion for accurate data and insights. Stay motivated and achieve your health goals effortlessly!",
+                "handle": "health-band-pro",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922243756339",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "Small"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smart_fitness_tracker_watch_product_realistic_photogra_4c784089-0ca8-46f5-9d0a-d88e27d57184_1.png?v=1721729384"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922243789107",
+                            "selectedOptions": [
+                                {
+                                    "name": "Size",
+                                    "value": "Medium"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smart_fitness_tracker_watch_product_realistic_photogra_4c784089-0ca8-46f5-9d0a-d88e27d57184_1.png?v=1721729384"
+                            }
+                        }
+                    ]
+                },
+                "title": "Health Band Pro"
+            },
+            {
+                "description": "Elevate your fitness journey with our sleek Fitness Tracker! Monitor heart rate, steps, and sleep patterns with ease. Waterproof, durable, and stylish, it's your ultimate workout companion for accurate data and insights. Stay motivated and achieve your health goals effortlessly!",
+                "handle": "move-fit-band",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922245067059",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smart_fitness_tracker_watch_product_realistic_photogra_3fa626c8-8fb2-4103-bfea-2da2bc0dc6c4_3.png?v=1721729388"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922245099827",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "gray"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smart_fitness_tracker_watch_product_realistic_photogra_3fa626c8-8fb2-4103-bfea-2da2bc0dc6c4_3.png?v=1721729388"
+                            }
+                        }
+                    ]
+                },
+                "title": "Move Fit Band"
+            },
+            {
+                "description": "Elevate your fitness journey with our sleek Fitness Tracker! Monitor heart rate, steps, and sleep patterns with ease. Waterproof, durable, and stylish, it's your ultimate workout companion for accurate data and insights. Stay motivated and achieve your health goals effortlessly!",
+                "handle": "fit-pulse-tracker",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922245493043",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smart_fitness_tracker_watch_product_realistic_photogra_3fa626c8-8fb2-4103-bfea-2da2bc0dc6c4_0.png?v=1721729391"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fit Pulse Tracker"
+            },
+            {
+                "description": "Stay connected and track your health with our sleek smartwatches. Enjoy notifications, fitness tracking, and more, all from your wrist. Perfect for the modern lifestyle!",
+                "handle": "life-sync-watch",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922245591347",
+                            "selectedOptions": [
+                                {
+                                    "name": "Watch display",
+                                    "value": "digital"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smartwatch_product_realistic_photography_with_white_ba_e3df4ecb-44a5-4710-906d-29ff623f515b_2.png?v=1721729394"
+                            }
+                        }
+                    ]
+                },
+                "title": "Life Sync Watch"
+            },
+            {
+                "description": "Stay connected and track your health with our sleek smartwatches. Enjoy notifications, fitness tracking, and more, all from your wrist. Perfect for the modern lifestyle!",
+                "handle": "active-watch",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922245886259",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smartwatch_product_realistic_photography_with_white_ba_86fe24d8-89e1-4e69-83fb-5cd9cde803ac_2.png?v=1721729397"
+                            }
+                        }
+                    ]
+                },
+                "title": "Active Watch"
+            },
+            {
+                "description": "Stay connected and track your health with our sleek smartwatches. Enjoy notifications, fitness tracking, and more, all from your wrist. Perfect for the modern lifestyle!",
+                "handle": "time-track-smartwatch",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922247131443",
+                            "selectedOptions": [
+                                {
+                                    "name": "Band color",
+                                    "value": "white"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Smartwatch_product_realistic_photography_with_white_ba_68f23bf4-a212-4f47-8f66-3268dba76e0d_2.png?v=1721729400"
+                            }
+                        }
+                    ]
+                },
+                "title": "Time Track Smartwatch"
+            },
+            {
+                "description": "Enjoy clear sound and all-day comfort with our wireless earbuds. With up to 10 hours of playtime and easy touch controls, they\u2019re perfect for work or play. Upgrade your audio experience now!",
+                "handle": "air-tune-earbuds",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922247459123",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_wireless_earbuds_product_realistic_photography_with_wh_861dc92e-fc31-4e51-bfb9-20818f313dab_3.png?v=1721729404"
+                            }
+                        }
+                    ]
+                },
+                "title": "Air Tune Earbuds"
+            },
+            {
+                "description": "Enjoy clear sound and all-day comfort with our wireless earbuds. With up to 10 hours of playtime and easy touch controls, they\u2019re perfect for work or play. Upgrade your audio experience now!",
+                "handle": "fit-buds",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922247885107",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "rose-gold"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_wireless_earbuds_product_realistic_photography_with_wh_6f12b072-f8b1-4aa9-ad8d-4b6f334c4aab_2.png?v=1721729407"
+                            }
+                        }
+                    ]
+                },
+                "title": "Fit Buds"
+            },
+            {
+                "description": "Enjoy clear sound and all-day comfort with our wireless earbuds. With up to 10 hours of playtime and easy touch controls, they\u2019re perfect for work or play. Upgrade your audio experience now!",
+                "handle": "sound-buds-pro",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922249425203",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_earbuds_product_wireless_realistic_photography_with_wh_78998afe-b1b9-4c68-a88c-f645b79abc17_3.png?v=1721729410"
+                            }
+                        }
+                    ]
+                },
+                "title": "Sound Buds Pro"
+            },
+            {
+                "description": "Experience exceptional sound with our premium headphones. Enjoy clear audio, deep bass, and comfortable wear with noise-canceling technology and an ergonomic design. Ideal for music lovers and gamers.",
+                "handle": "deep-bass-headphones",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922249851187",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "green"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_headphones_product_wireless_realistic_photography_with_cf8a93c2-e8f3-4289-8d1e-bca6db2cd76d_2.png?v=1721729413"
+                            }
+                        }
+                    ]
+                },
+                "title": "Deep Bass Headphones"
+            },
+            {
+                "description": "Experience exceptional sound with our premium headphones. Enjoy clear audio, deep bass, and comfortable wear with noise-canceling technology and an ergonomic design. Ideal for music lovers and gamers.",
+                "handle": "crystal-clear-headphones",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922250244403",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "black"
+                                },
+                                {
+                                    "name": "Headphone style",
+                                    "value": "closed-back"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_headphones_product_wireless_realistic_photography_with_ecb08cfc-767e-4830-a9e4-bcccf70e659a_1.png?v=1721729416"
+                            }
+                        }
+                    ]
+                },
+                "title": "Crystal Clear Headphones"
+            },
+            {
+                "description": "Experience exceptional sound with our premium headphones. Enjoy clear audio, deep bass, and comfortable wear with noise-canceling technology and an ergonomic design. Ideal for music lovers and gamers.",
+                "handle": "pure-sound-headphones",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922251555123",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "Over-Ear"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_headphones_product_wireless_realistic_photography_with_cf8a93c2-e8f3-4289-8d1e-bca6db2cd76d_0.png?v=1721729419"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922251587891",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "white"
+                                },
+                                {
+                                    "name": "Style",
+                                    "value": "On-Ear"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_headphones_product_wireless_realistic_photography_with_cf8a93c2-e8f3-4289-8d1e-bca6db2cd76d_0.png?v=1721729419"
+                            }
+                        }
+                    ]
+                },
+                "title": "Pure Sound Headphones"
+            },
+            {
+                "description": "Experience rich, clear sound on the go with our Bluetooth Speakers. Compact and stylish, they offer wireless convenience and long battery life, making them perfect for any adventure. Enjoy exceptional audio anytime, anywhere.",
+                "handle": "bass-boost-speaker",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922251915571",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "bronze"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Bluetooth_speaker_product_wireless_realistic_photograp_dd1e77fc-d596-4bb0-bd46-10553d1dcccf_0.png?v=1721729422"
+                            }
+                        }
+                    ]
+                },
+                "title": "Bass Boost Speaker"
+            },
+            {
+                "description": "Experience rich, clear sound on the go with our Bluetooth Speakers. Compact and stylish, they offer wireless convenience and long battery life, making them perfect for any adventure. Enjoy exceptional audio anytime, anywhere.",
+                "handle": "boom-box-mini",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922252374323",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Bluetooth_speaker_product_wireless_realistic_photograp_ba1fa28b-fa57-4f10-a1cf-693cbc33a756_3.png?v=1721729425"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922252407091",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "gray"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Bluetooth_speaker_product_wireless_realistic_photograp_ba1fa28b-fa57-4f10-a1cf-693cbc33a756_3.png?v=1721729425"
+                            }
+                        }
+                    ]
+                },
+                "title": "Boom Box Mini"
+            },
+            {
+                "description": "Experience rich, clear sound on the go with our Bluetooth Speakers. Compact and stylish, they offer wireless convenience and long battery life, making them perfect for any adventure. Enjoy exceptional audio anytime, anywhere.",
+                "handle": "sound-wave-speaker",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922252865843",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "black"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Bluetooth_speaker_product_wireless_realistic_photograp_1ecb269c-7fe0-46ce-b8fe-632bb3229356_1.png?v=1721729429"
+                            }
+                        }
+                    ]
+                },
+                "title": "Sound Wave Speaker"
+            },
+            {
+                "description": "Stay powered up with our high-speed chargers and durable cables. Designed for quick, reliable charging, these accessories work seamlessly with all your devices. Choose from various lengths and styles for efficient, on-the-go power.",
+                "handle": "ultra-sync-cable",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922253160755",
+                            "selectedOptions": [
+                                {
+                                    "name": "Color",
+                                    "value": "Balck"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/9e7ebf883f305a4efa210e66.webp?v=1721729431"
+                            }
+                        }
+                    ]
+                },
+                "title": "Ultra Sync Cable"
+            },
+            {
+                "description": "Stay powered up with our high-speed chargers and durable cables. Designed for quick, reliable charging, these accessories work seamlessly with all your devices. Choose from various lengths and styles for efficient, on-the-go power.",
+                "handle": "power-hub-charger",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922254307635",
+                            "selectedOptions": [
+                                {
+                                    "name": "Ports",
+                                    "value": "Single Port"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/1275028-rpl-1.jpg?v=1721729433"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922254340403",
+                            "selectedOptions": [
+                                {
+                                    "name": "Ports",
+                                    "value": "Dual Port"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/1275028-rpl-1.jpg?v=1721729433"
+                            }
+                        }
+                    ]
+                },
+                "title": "Power Hub Charger"
+            },
+            {
+                "description": "Stay powered up with our high-speed chargers and durable cables. Designed for quick, reliable charging, these accessories work seamlessly with all your devices. Choose from various lengths and styles for efficient, on-the-go power.",
+                "handle": "quick-charge-cable",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922254766387",
+                            "selectedOptions": [
+                                {
+                                    "name": "Type",
+                                    "value": "USB-C"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/Max01_1.png?v=1721729436"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922254799155",
+                            "selectedOptions": [
+                                {
+                                    "name": "Type",
+                                    "value": "Micro-USB"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/Max01_1.png?v=1721729436"
+                            }
+                        }
+                    ]
+                },
+                "title": "Quick Charge Cable"
+            },
+            {
+                "description": "Protect your phone in style with our premium cases. Designed for durability and fashion, they guard against drops and scratches while offering easy access to all ports. Choose from a variety of sleek designs to match your style!",
+                "handle": "clearview-case",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922255290675",
+                            "selectedOptions": [
+                                {
+                                    "name": "Model",
+                                    "value": "iPhone 12"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Phone_Case_design_with_Anime_product_phone_case_realis_8dfb7c95-a1f0-4704-a4d4-a3f737495b41_3.png?v=1721729439"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922255323443",
+                            "selectedOptions": [
+                                {
+                                    "name": "Model",
+                                    "value": "iPhone 12 pro max"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Phone_Case_design_with_Anime_product_phone_case_realis_8dfb7c95-a1f0-4704-a4d4-a3f737495b41_3.png?v=1721729439"
+                            }
+                        }
+                    ]
+                },
+                "title": "Clear View Case"
+            },
+            {
+                "description": "Protect your phone in style with our premium cases. Designed for durability and fashion, they guard against drops and scratches while offering easy access to all ports. Choose from a variety of sleek designs to match your style!",
+                "handle": "armorshield-case",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922255782195",
+                            "selectedOptions": [
+                                {
+                                    "name": "Model",
+                                    "value": "iPhone 14"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Phone_Case_design_with_Anime_product_phone_case_realis_8dfb7c95-a1f0-4704-a4d4-a3f737495b41_0.png?v=1721729442"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922255814963",
+                            "selectedOptions": [
+                                {
+                                    "name": "Model",
+                                    "value": "iPhone 14 Pro"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Phone_Case_design_with_Anime_product_phone_case_realis_8dfb7c95-a1f0-4704-a4d4-a3f737495b41_0.png?v=1721729442"
+                            }
+                        }
+                    ]
+                },
+                "title": "Armor Shield Case"
+            },
+            {
+                "description": "Protect your phone in style with our premium cases. Designed for durability and fashion, they guard against drops and scratches while offering easy access to all ports. Choose from a variety of sleek designs to match your style!",
+                "handle": "flexguard-case",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49922256142643",
+                            "selectedOptions": [
+                                {
+                                    "name": "Model",
+                                    "value": "iPhone 13"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Phone_Case_design_with_Anime_product_phone_case_realis_890b962d-226e-4c42-99b6-2d9678b594ee_3.png?v=1721729445"
+                            }
+                        },
+                        {
+                            "id": "gid://shopify/ProductVariant/49922256175411",
+                            "selectedOptions": [
+                                {
+                                    "name": "Model",
+                                    "value": "iPhone 13 Pro"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_Phone_Case_design_with_Anime_product_phone_case_realis_890b962d-226e-4c42-99b6-2d9678b594ee_3.png?v=1721729445"
+                            }
+                        }
+                    ]
+                },
+                "title": "Flex Guard Case"
+            },
+            {
+                "description": "Premium Quality Earbuds.",
+                "handle": "high-tech-earbuds",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49930516922675",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/exarta_wireless_earbuds_product_realistic_photography_with_wh_a5e5a349-2af8-4ab0-aebe-503b938d0fa2_1.png?v=1721823134"
+                            }
+                        }
+                    ]
+                },
+                "title": "High-Tech Earbuds"
+            },
+            {
+                "description": "Stay charged and eco-conscious with the Eco-Friendly Power Bank\u2122. Made from sustainable materials, this power bank offers fast charging and a large capacity to keep your devices powered throughout the day. Perfect for environmentally-conscious tech users.",
+                "handle": "eco-friendly-power-bank\u2122",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936808968499",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/ZzrSuuG9gD.png?v=1721888175"
+                            }
+                        }
+                    ]
+                },
+                "title": "Eco-Friendly Power Bank\u2122"
+            },
+            {
+                "description": "Bring the party with you with the Bluetooth Speaker R&B\u2122. This portable speaker offers powerful sound, rich bass, and a sleek design. With its long battery life and wireless connectivity, you can enjoy your favorite tunes anywhere, anytime.",
+                "handle": "bluetooth-speaker-r-b\u2122",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936809132339",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/tJ02oLEylK.png?v=1721888171"
+                            }
+                        }
+                    ]
+                },
+                "title": "Bluetooth Speaker R&B\u2122"
+            },
+            {
+                "description": "Immerse yourself in sound with the Headphones X^2. These over-ear headphones deliver crystal-clear audio and deep bass, perfect for music lovers and gamers. The comfortable ear cushions and adjustable headband ensure a perfect fit for extended use.",
+                "handle": "headphones-x-2",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936810869043",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/R5yCoPe1oB.png?v=1721888157"
+                            }
+                        }
+                    ]
+                },
+                "title": "Headphones X^2"
+            },
+            {
+                "description": "Enhance your mobile experience with the Mobile Stand 360\u00b0. This versatile stand offers adjustable angles and a sturdy base, making it ideal for video calls, watching movies, or reading. Its compact design makes it easy to carry and set up anywhere.",
+                "handle": "mobile-stand-360",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936812048691",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/fuxirhpivb.png?v=1721888155"
+                            }
+                        }
+                    ]
+                },
+                "title": "Mobile Stand 360\u00b0"
+            },
+            {
+                "description": "Power up your devices quickly with the Ultra-Fast Charger 2-in-1\u2122. This charger is designed to provide fast and efficient charging for both USB-C and USB-A devices. Compact and travel-friendly, it\u2019s the perfect accessory for your tech needs.",
+                "handle": "ultra-fast-charger-2-in-1\u2122",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936812146995",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/c4JFPnODbM.png?v=1721888150"
+                            }
+                        }
+                    ]
+                },
+                "title": "Ultra-Fast Charger 2-in-1\u2122"
+            },
+            {
+                "description": "Experience high-fidelity sound with the Wireless Earbuds Pro+. These premium earbuds offer noise-cancellation, long battery life, and a comfortable fit. Whether you\u2019re commuting, working out, or relaxing at home, enjoy your music without interruptions.",
+                "handle": "wireless-earbuds-pro",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936812376371",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/De8FTlVhh2.png?v=1721888147"
+                            }
+                        }
+                    ]
+                },
+                "title": "Wireless Earbuds Pro+"
+            },
+            {
+                "description": "Stay connected and stylish with the Smart@Watch\u2122 Series X. This advanced smartwatch features a sleek design, health monitoring, customizable watch faces, and seamless integration with your smartphone. Perfect for on-the-go professionals and fitness enthusiasts alike.",
+                "handle": "smart-watch\u2122-series-x",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49936812572979",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0891/0625/2083/files/y2pHJnx3pR.png?v=1721888145"
+                            }
+                        }
+                    ]
+                },
+                "title": "Smart@Watch\u2122 Series X"
+            }
+        ]
+    },
+    "chosen_store_name": "NextGenz Gadgets",
+    "storeDescription": "just to sell some items!",
+    "character": "sakura",
+    "plan": "Free",
+    "voice_interaction": 1,
+    "is_draggable": 1,
+    "faq": [],
+    "retrain": false,
+    "initial_count": 1
+}
