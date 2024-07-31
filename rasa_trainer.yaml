@@ -1,0 +1,53 @@
+apiVersion: kubeflow.org/v1
+kind: TFJob
+metadata:
+  name: rasa-tfjob-exarta-88954994994-0
+  namespace: tenant-7654b5-asrpods
+spec:
+  tfReplicaSpecs:
+    Worker:
+      replicas: 1
+      restartPolicy: OnFailure
+      template:
+        metadata:
+          annotations:
+            sidecar.istio.io/inject: 'false'
+        spec:
+          affinity:
+            nodeAffinity:
+              requiredDuringSchedulingIgnoredDuringExecution:
+                nodeSelectorTerms:
+                - matchExpressions:
+                  - key: gpu.nvidia.com/class
+                    operator: In
+                    values:
+                    - A100_PCIE_40GB
+          containers:
+          - args:
+            - pwd && curl https://zeniva-shopify-ord1.object.ord1.coreweave.com/shopify/models/data-exarta-88954994994-0.json
+              --output data-exarta-88954994994-0.json && ls && cd / && ls && python
+              test.py /app/data-exarta-88954994994-0.json && ls
+            command:
+            - /bin/sh
+            - -c
+            image: exartadev/zeniva.exarta:tfjobgputest44
+            imagePullPolicy: IfNotPresent
+            name: tensorflow
+            ports:
+            - containerPort: 5005
+              name: tfjob-port
+            resources:
+              limits:
+                cpu: 4
+                memory: 16Gi
+                nvidia.com/gpu: 1
+            volumeMounts:
+            - mountPath: /app
+              name: cache-volume
+            workingDir: /app
+          imagePullSecrets:
+          - name: dockerhub-secret
+          volumes:
+          - emptyDir:
+              sizeLimit: 500Mi
+            name: cache-volume

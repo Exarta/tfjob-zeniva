@@ -1,0 +1,278 @@
+{
+    "data": {
+        "collections": {
+            "nodes": [
+                {
+                    "handle": "sports",
+                    "title": "Sports",
+                    "products": {
+                        "filters": [
+                            {
+                                "type": "LIST",
+                                "id": "filter.v.availability",
+                                "values": [
+                                    {
+                                        "label": "Out of stock"
+                                    },
+                                    {
+                                        "label": "In stock"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "PRICE_RANGE",
+                                "id": "filter.v.price",
+                                "values": [
+                                    {
+                                        "label": "Price"
+                                    }
+                                ]
+                            }
+                        ],
+                        "pageInfo": {
+                            "hasNextPage": false,
+                            "endCursor": "eyJsYXN0X2lkIjo5NTUyODcyMzc0NTc4LCJsYXN0X3ZhbHVlIjowfQ=="
+                        }
+                    }
+                }
+            ]
+        },
+        "pages": {
+            "nodes": [
+                {
+                    "title": "Home",
+                    "handle": "home"
+                },
+                {
+                    "title": "Contact",
+                    "handle": "contact"
+                }
+            ]
+        },
+        "shop": {
+            "name": "QA_HIRA TESTING STORE",
+            "id": "gid://shopify/Shop/88954994994"
+        },
+        "products": [
+            {
+                "description": "",
+                "handle": "digital-quartz-hybrid-watch\u2122",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122605826354",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/DigitalQuartzHybridwatch.png?v=1722318006"
+                            }
+                        }
+                    ]
+                },
+                "title": "Digital~Quartz Hybrid+watch"
+            },
+            {
+                "description": "",
+                "handle": "gift-for-her",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122611233074",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/Screenshot2024-07-26105315.png?v=1722318070"
+                            }
+                        }
+                    ]
+                },
+                "title": "Gift for Her"
+            },
+            {
+                "description": "",
+                "handle": "smart-watch",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122614903090",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/Screenshot2024-07-26105356.png?v=1722318090"
+                            }
+                        }
+                    ]
+                },
+                "title": "Smart Watch"
+            },
+            {
+                "description": "",
+                "handle": "cricket-christmas-cup",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122618802482",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/original_funny-cricket-christmas-mug.jpg?v=1722318126"
+                            }
+                        }
+                    ]
+                },
+                "title": "Cricket Christmas Cup"
+            },
+            {
+                "description": "",
+                "handle": "cricket-fan-ceramic-mug",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122622177586",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/original_novelty-cricket-fan-ceramic-mug.jpg?v=1722318151"
+                            }
+                        }
+                    ]
+                },
+                "title": "@@Cricket$Fan^ceramic^Mug"
+            },
+            {
+                "description": "",
+                "handle": "children-cricket-set",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122632368434",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/original_personalised-children-s-cricket-set.jpg?v=1722318213"
+                            }
+                        }
+                    ]
+                },
+                "title": "Children~Cricket~Set&"
+            },
+            {
+                "description": "",
+                "handle": "football-tshirt-for-boys",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122639315250",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/original_everything-revolves-around-football-kids-t-shirt.jpg?v=1722318273"
+                            }
+                        }
+                    ]
+                },
+                "title": "FootBall (TShirt) For Boys%%%"
+            },
+            {
+                "description": "",
+                "handle": "sports-bag",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122641576242",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/original_cricket-sports-ball-wash-bag.jpg?v=1722318357"
+                            }
+                        }
+                    ]
+                },
+                "title": "Sports Bag"
+            },
+            {
+                "description": "",
+                "handle": "track-suit",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49122644492594",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/778180s.webp?v=1722318386"
+                            }
+                        }
+                    ]
+                },
+                "title": "Track suit"
+            },
+            {
+                "description": "",
+                "handle": "grey-watch-for-men",
+                "variants": {
+                    "nodes": [
+                        {
+                            "id": "gid://shopify/ProductVariant/49124286366002",
+                            "selectedOptions": [
+                                {
+                                    "name": "Title",
+                                    "value": "Default Title"
+                                }
+                            ],
+                            "image": {
+                                "url": "https://cdn.shopify.com/s/files/1/0889/5499/4994/files/23-52-484_grey.jpg?v=1722336243"
+                            }
+                        }
+                    ]
+                },
+                "title": "Grey@watch@for@Men"
+            }
+        ]
+    },
+    "chosen_store_name": "QA_HIRA TESTING STORE",
+    "storeDescription": "Welcome",
+    "character": "emma",
+    "plan": "Free",
+    "voice_interaction": 1,
+    "is_draggable": 0,
+    "faq": [],
+    "retrain": false,
+    "initial_count": 1
+}
